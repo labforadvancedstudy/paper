@@ -1,4 +1,8 @@
-# Paper
+
+
+# Lab for Advanced Study
+
+## Mission: Understands and explains about Universe
 
 # Experimentals, Proof of Work
 

@@ -24,9 +24,9 @@
 || **Description:** Dark matter makes up most of the universe's mass, and dark energy accelerates the universe's expansion, but both remain mysterious. | 암흑 물질은 우주 질량의 대부분을 차지하고, 암흑 에너지는 우주의 팽창을 가속화시키지만, 둘 다 미스터리로 남아 있습니다. |
 |  | [The Nature of Gravity](https://en.wikipedia.org/wiki/Gravity) | Physics | Early 20th century |
 || **Description:** Gravity has not yet been perfectly integrated with quantum mechanics, and there is a lack of understanding of its fundamental principles. | 중력은 아직 양자역학과 완벽하게 통합되지 않았으며, 그 기본 원리에 대한 이해가 부족합니다. |
-| ✅ [Draft](./Life.md) | [The Origin of Life](https://en.wikipedia.org/wiki/Abiogenesis) | Biology | 1920s |
+| 🚧 [Buildup](./Life.md) | [The Origin of Life](https://en.wikipedia.org/wiki/Abiogenesis) | Biology | 1920s |
 || **Description:** It is still unclear how life started from non-living matter and what the essential conditions for life are. | 생명이 무생물에서 어떻게 시작되었는지, 그리고 생명의 필수 조건이 무엇인지는 여전히 불분명합니다. |
-| ✅ [Draft](./Life.md) | [The Nature of Consciousness](https://en.wikipedia.org/wiki/Consciousness) | Neuroscience | Late 19th century |
+| 🚧 [Buildup](./Life.md) | [The Nature of Consciousness](https://en.wikipedia.org/wiki/Consciousness) | Neuroscience | Late 19th century |
 || **Description:** There is a lack of fundamental understanding of how consciousness arises and why subjective experiences exist. | 의식이 어떻게 발생하는지, 그리고 주관적 경험이 왜 존재하는지에 대한 근본적인 이해가 부족합니다. |
 | ✅ [Draft](./Time.md) | [The Nature of Time](https://en.wikipedia.org/wiki/Time) | Physics | Early 20th century |
 || **Description:** There is a lack of understanding of the nature of time, such as why time feels like it flows and why the arrow of time is related to thermodynamics. | 시간이 흐르는 것처럼 느껴지는 이유, 그리고 시간의 화살표가 열역학과 관련되는 이유 등 시간의 본질에 대한 이해가 부족합니다. |
@@ -78,7 +78,7 @@
 || **Description:** Understanding the emergence and evolutionary mechanisms of antibiotic-resistant bacteria is necessary, and the development of new strategies to overcome this is urgent. | 항생제 내성 박테리아의 출현과 진화 메커니즘에 대한 이해가 필요하며, 이를 극복하기 위한 새로운 전략 개발이 시급합니다. |
 |  | [Unification of Fundamental Laws](https://en.wikipedia.org/wiki/Theory_of_everything) | Physics | Early 20th century |
 || **Description:** Efforts are ongoing to explain various physical theories, such as quantum mechanics, general relativity, and particle physics, as a single unified theory. | 양자역학, 일반 상대성 이론, 입자 물리학 등 다양한 물리 이론을 하나의 통합된 이론으로 설명하려는 노력이 진행 중입니다. |
-| ✅ [Draft](./Universe.md) | [Multiverse Theory and Cosmic Inflation](https://en.wikipedia.org/wiki/Multiverse) | Cosmology | 1980s |
+| 🚧 [Buildup](./Universe.md) | [Multiverse Theory and Cosmic Inflation](https://en.wikipedia.org/wiki/Multiverse) | Cosmology | 1980s |
 || **Description:** The possibility that the universe we observe is one of countless universes, and the theory that rapid expansion occurred in the early universe, have been proposed but have not yet been verified. | 우리가 관찰하는 우주가 수많은 우주 중 하나일 가능성과 초기 우주에서 급격한 팽창이 일어났다는 이론이 제안되었지만, 아직 검증되지 않았습니다. |
 
 
@@ -89,9 +89,9 @@
 ```
 
 
-| Status | Theory | Field | Start of Research | Institute's Research Start |
-|-------------------|---|---|---|---|
-|  | [Sustainable Energy](https://en.wikipedia.org/wiki/Sustainable_energy) | Energy | Early 20th century | 1970s |
+| Status | Theory | Field | Start of Research | 
+|-------------------|---|---|---|
+|  | [Sustainable Energy](https://en.wikipedia.org/wiki/Sustainable_energy) | Energy | Early 20th century |
 || **Description:** Developing efficient and environmentally friendly energy sources is crucial for sustaining human civilization and mitigating climate change. | 효율적이고 환경 친화적인 에너지원을 개발하는 것은 인류 문명을 유지하고 기후 변화를 완화하는 데 매우 중요합니다. |
 |  | [Climate Change Mitigation and Adaptation](https://en.wikipedia.org/wiki/Climate_change_mitigation) | Environmental Science | 1960s | 1990s |
 || **Description:** Understanding and addressing the causes and effects of climate change is essential for protecting ecosystems, food security, and human health. | 기후 변화의 원인과 영향을 이해하고 해결하는 것은 생태계, 식량 안보 및 인류의 건강을 보호하는 데 필수적입니다. |
@@ -107,11 +107,11 @@
 || **Description:** Cancer remains a leading cause of death worldwide, and developing more effective prevention strategies, early detection methods, and targeted treatments is essential for reducing mortality. | 암은 전 세계적으로 주요 사망 원인으로 남아 있으며, 사망률을 줄이기 위해서는 보다 효과적인 예방 전략, 조기 발견 방법 및 표적 치료법 개발이 필수적입니다. |
 |  | [Genetic Disorders and Gene Therapy](https://en.wikipedia.org/wiki/Gene_therapy) | Genetics | 1960s | 1980s |
 || **Description:** Understanding the genetic basis of inherited disorders and developing targeted gene therapies can greatly improve the lives of affected individuals and their families. | 유전 질환의 유전적 기초를 이해하고 표적 유전자 치료법을 개발하면 영향을 받는 개인과 가족의 삶을 크게 개선할 수 있습니다. |
-| ✅ [Draft](./Life.md) | [Neurodegenerative Diseases](https://en.wikipedia.org/wiki/Neurodegenerative_disease) | Neuroscience | Early 20th century | 1960s |
+| 🚧 [Buildup](./Life.md) | [Neurodegenerative Diseases](https://en.wikipedia.org/wiki/Neurodegenerative_disease) | Neuroscience | Early 20th century | 1960s |
 || **Description:** Neurodegenerative diseases like Alzheimer's and Parkinson's affect millions worldwide, and finding effective treatments and preventive measures is crucial for aging populations. | 알츠하이머병과 파킨슨병과 같은 신경퇴행성 질환은 전 세계 수백만 명에게 영향을 미치며, 고령 인구를 위한 효과적인 치료법과 예방 조치를 찾는 것이 중요합니다. |
-| ✅ [Draft](./Life.md) | [Mental Health and Psychiatric Disorders](https://en.wikipedia.org/wiki/Mental_health) | Psychology | Late 19th century | 1950s |
+| 🚧 [Buildup](./Life.md) | [Mental Health and Psychiatric Disorders](https://en.wikipedia.org/wiki/Mental_health) | Psychology | Late 19th century | 1950s |
 || **Description:** Mental health disorders affect a significant portion of the global population, and improving diagnosis, treatment, and access to care is essential for individual well-being and societal productivity. | 정신 건강 장애는 전 세계 인구의 상당 부분에 영향을 미치며, 진단, 치료 및 의료 접근성을 개선하는 것은 개인의 웰빙과 사회 생산성에 필수적입니다. |
-| ✅ [Draft](./Life.md) | [Addiction and Substance Abuse](https://en.wikipedia.org/wiki/Addiction) | Neuroscience | Early 20th century | 1930s |
+| 🚧 [Buildup](./Life.md) | [Addiction and Substance Abuse](https://en.wikipedia.org/wiki/Addiction) | Neuroscience | Early 20th century | 1930s |
 || **Description:** Substance abuse and addiction have far-reaching consequences for individuals, families, and society, and developing effective prevention and treatment strategies is crucial for public health. | 약물 남용과 중독은 개인, 가족 및 사회에 광범위한 영향을 미치며, 효과적인 예방 및 치료 전략을 개발하는 것이 공중 보건에 매우 중요합니다. |
 |  | [Regenerative Medicine and Tissue Engineering](https://en.wikipedia.org/wiki/Regenerative_medicine) | Biomedical Engineering | 1970s | 1990s |
 || **Description:** Regenerative medicine and tissue engineering hold great promise for treating injuries, diseases, and age-related degeneration by replacing or regenerating damaged tissues and organs. | 재생 의학과 조직 공학은 손상되거나 노화된 조직과 장기를 대체하거나 재생함으로써 상해, 질병 및 노화 관련 퇴화를 치료할 수 있는 큰 가능성을 가지고 있습니다. |
@@ -133,11 +133,11 @@
 || **Description:** Improving maternal and child health is essential for reducing mortality, promoting healthy development, and achieving global health goals. | 모자 보건을 개선하는 것은 사망률을 줄이고, 건강한 발달을 촉진하며, 세계 보건 목표를 달성하는 데 필수적입니다. |
 |  | [Nutrition and Global Health](https://en.wikipedia.org/wiki/Nutrition) | Nutritional Science | Early 20th century | 1940s |
 || **Description:** Proper nutrition is crucial for maintaining health, preventing chronic diseases, and promoting healthy growth and development, especially in developing countries. | 적절한 영양 공급은 건강을 유지하고, 만성 질환을 예방하며, 특히 개발도상국에서 건강한 성장과 발달을 촉진하는 데 매우 중요합니다. |
-| ✅ [Draft](./Life.md) | [Obesity and Metabolic Disorders](https://en.wikipedia.org/wiki/Obesity) | Endocrinology | 1930s | 1970s |
+| 🚧 [Buildup](./Life.md) | [Obesity and Metabolic Disorders](https://en.wikipedia.org/wiki/Obesity) | Endocrinology | 1930s | 1970s |
 || **Description:** Obesity and related metabolic disorders are major risk factors for chronic diseases, and understanding the underlying mechanisms and developing effective interventions are critical for public health. | 비만과 관련 대사 질환은 만성 질환의 주요 위험 요인이며, 근본적인 메커니즘을 이해하고 효과적인 중재법을 개발하는 것이 공중 보건에 매우 중요합니다. |
 |  | [Cardiovascular Diseases](https://en.wikipedia.org/wiki/Cardiovascular_disease) | Cardiology | Early 20th century | 1950s |
 || **Description:** Cardiovascular diseases are the leading cause of death globally, and improving prevention, diagnosis, and treatment strategies is essential for reducing mortality and improving quality of life. | 심혈관 질환은 전 세계적으로 주요 사망 원인이며, 예방, 진단 및 치료 전략을 개선하는 것이 사망률을 줄이고 삶의 질을 향상시키는 데 필수적입니다. |
 |  | [Respiratory Diseases](https://en.wikipedia.org/wiki/Respiratory_disease) | Pulmonology | 19th century | 1950s |
 || **Description:** Respiratory diseases, including chronic obstructive pulmonary disease (COPD) and asthma, affect millions worldwide, and improving prevention, diagnosis, and treatment is crucial for reducing morbidity and mortality. | 만성 폐쇄성 폐질환(COPD)과 천식을 포함한 호흡기 질환은 전 세계 수백만 명에게 영향을 미치며, 예방, 진단 및 치료를 개선하는 것이 이환율과 사망률을 줄이는 데 매우 중요합니다. |
-|  | [Diabetes](https://en.wikipedia.org/wiki/Diabetes) | Endocrinology | 19th century | 1920s |
+|  | [Diabetes](https://en.wikipedia.org/wiki/Diabetes) | Endocrinology | 19th century | 
 || **Description:** Diabetes is a chronic metabolic disorder affecting millions worldwide, and improving prevention, early detection, and management strategies is essential for reducing complications and improving quality of life. | 당뇨병은 전 세계 수백만 명에게 영향을 미치는 만성 대사 질환이며, 예방, 조기 발견 및 관리 전략을 개선하는

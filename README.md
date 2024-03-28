@@ -4,6 +4,13 @@
 
 ## ⭐ Mission: Understands and explains about Universe
 
+## Team
+
+- Warlord G: [G](mailto:zhugehyuk@gmail.com), [X](https://twitter.com/icedac), [🔗](https://www.linkedin.com/in/icedac/), [📷](https://www.instagram.com/icedac/)
+  - feel free to contact me if you can understand my [Time Theory](./Time.md).
+- Head of Manager the [Claude-duck Oops](https://claude.ai)
+
+
 ## 🚀 Current Working on: 
 
 ### [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis

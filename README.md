@@ -14,7 +14,7 @@
 - [NeuroX](./NeuroX.md)
   - NeuroX is an innovative distributed neural network system designed to simulate the human brain.
   - Proof Experimental for [Time Theory](./Time.md), [Life Theory](./Life.md)
-- [SecurEye](//SecurEye.md)
+- [SecurEye](./SecurEye.md)
    - Wearable Blockchain-based Privacy-Preserving Camera System
    - Thinks about Google Glass with blockchain payments and personal blackbox
 

@@ -1,24 +1,26 @@
 
 
-# Lab for Advanced Study
+# ✨ Lab for Advanced Study
 
-## Mission: Understands and explains about Universe
+## ⭐ Mission: Understands and explains about Universe
 
-## Current Working on: 
+## 🚀 Current Working on: 
 
 ### [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
 ### [Life Theory](./Life.md)
 
-# Experimentals, Proof of Works
+## 📕 Experimentals, Proof of Works
 
 - [NeuroX](./NeuroX.md)
   - NeuroX is an innovative distributed neural network system designed to simulate the human brain.
   - Proof Experimental for [Time Theory](./Time.md), [Life Theory](./Life.md)
-    
+- [SecurEye](//SecurEye.md)
+   - Wearable Blockchain-based Privacy-Preserving Camera System
+   - Thinks about Google Glass with blockchain payments and personal blackbox
 
-# Research
+## 📘 Research
 
-## 30 Theories in Science
+### 30 Theories in Science
 
 ```
 인류가 아직 이해하지 못하는 우주, 자연 현상을 200개 뽑아주고 그중 가장 많은 사람이 시도 했는데 풀지 못한 순으로 30개 뽑아줘.

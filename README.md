@@ -4,10 +4,16 @@
 
 ## Mission: Understands and explains about Universe
 
-# Experimentals, Proof of Work
+## Current Working on: 
+
+### [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
+### [Life Theory](./Life.md)
+
+# Experimentals, Proof of Works
 
 - [NeuroX](./NeuroX.md)
-  - Proof Experimental for [Life Theory](./Life.md), [Time Theory](./Time.md)
+  - NeuroX is an innovative distributed neural network system designed to simulate the human brain.
+  - Proof Experimental for [Time Theory](./Time.md), [Life Theory](./Life.md)
     
 
 # Research

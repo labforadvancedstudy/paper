@@ -4,8 +4,10 @@
 Visualize a close-up view of futuristic wearable glasses named SecurEye. These glasses have a modern, sleek design, embodying a more advanced and stylish version of Google Glass. They feature a discreet, integrated high-resolution camera near one of the lenses, barely noticeable to ensure privacy and discretion. The frame of the glasses is made from a lightweight, durable material with a matte finish, giving it a premium look. The temples of the glasses incorporate subtle smart touch panels for gesture control, allowing the wearer to interact with the device by simple gestures like swiping or tapping. The design emphasizes a balance between technology and fashion, showcasing a wearable device that not only offers advanced functionalities like real-time recording, blockchain integration, and a 3D-like display for the wearer but also serves as a stylish accessory suitable for everyday wear.
 ```
 
-![SecurEye Glasses](./SecurEye/image.png "SecurEye Wearable Technology")
+![SecurEye Glasses](./SecurEye/image1.png "SecurEye Wearable Technology")
 
+
+![SecurEye Glasses](./SecurEye/image2.png "SecurEye Wearable Technology")
 
 
 ## English Patent Application

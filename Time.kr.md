@@ -1,4 +1,4 @@
-# 제목: 뇌 시계 가설: 주관적 시간 경험에 대한 새로운 관점
+# 제목: The relativity of subjective time theory
 
 ## 저자: 임지혁 (zhugehyuk@gmail.com), claude-3 opus
 

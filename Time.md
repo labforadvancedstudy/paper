@@ -1,4 +1,4 @@
-# Title: The Brain Clock Hypothesis: A Novel Perspective on Subjective Time Experience
+# Title: The relativity of subjective time theory
 
 ## Authors: Jihyuk Im (zhugehyuk@gmail.com), claude-3 opus
 

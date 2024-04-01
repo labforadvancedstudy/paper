@@ -13,6 +13,7 @@
 
 ## 🚀 Current Working on: 
 
+### [Alpha Indivisual Theory](./Alpha.md)
 ### [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
 ### [Life Theory](./Life.md)
 

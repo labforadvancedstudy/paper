@@ -175,4 +175,4 @@ Zakay, D., & Block, R. A. (1995). An attentional-gate model of prospective time 
 
 # Version History
 - Version 1: Initial draft
-- Version 2: Added references and revised text, adds how to test the hypothesis 
+- Version 2: Added references and revised text, adds how to test the hypothesis. Separate the [alpha indivisuals theory](./Alpha.md) from the main text.

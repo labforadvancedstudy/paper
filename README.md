@@ -13,9 +13,14 @@
 
 ## 🚀 Current Working on: 
 
-### [Alpha Indivisual Theory](./Alpha.md)
-### [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
-### [Life Theory](./Life.md)
+### Essay
+- [How Heroes Recognize Each Other: From the Origin of Life to Homo Sapiens and the Future of AI](./HeroEssay.md), [영웅은 영웅을 알아보는 법: 생명의 기원에서 호모 사피엔스 그리고 AI의 미래
+](./HeroEssay.md)
+
+### Paper
+- [Alpha Indivisual Theory](./Alpha.md)
+- [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
+- [Life Theory](./Life.md)
 
 ## 📕 Experimentals, Proof of Works
 

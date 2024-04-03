@@ -18,6 +18,7 @@
 ](./HeroEssay.kr.md)
 
 ### Paper
+- [Brain are Lanuage Model](./BrainLM.md)
 - [Alpha Indivisual Theory](./Alpha.md)
 - [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
 - [Life Theory](./Life.md)

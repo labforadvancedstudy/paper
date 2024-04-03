@@ -202,31 +202,10 @@ Zakay, D., & Block, R. A. (1995). An attentional-gate model of prospective time 
 
 [Van Wassenhove, V., Buonomano, D. V., Shimojo, S., & Shams, L. (2008). Distortions of subjective time perception within and across senses. PloS One, 3(1), e1437.]
 
-[Im, J. (2004) Brain as Lanuage Model Processor.](./BrainLM.md)
-
-# Suggested Reviewers
-1. Dean Buonomano, Ph.D. (Departments of Neurobiology and Psychology, UCLA) - Expert in neural mechanisms of timing and temporal processing. Pioneered the state-dependent network model of interval timing.
-
-2. Warren Meck, Ph.D. (Department of Psychology and Neuroscience, Duke University) - Leading researcher in the field of timing and time perception. Developed the striatal beat frequency model.  
-
-3. Virginie van Wassenhove, Ph.D. (Cognitive Neuroimaging Unit, CEA DRF/I2BM, INSERM, Université Paris-Sud) - Investigates the neural bases of time perception using neuroimaging and brain stimulation techniques.
-
-4. Yoshiko Yabe, Ph.D. (Department of Psychology, Kyoto University) - Studies the neural underpinnings of time perception and temporal organization of memory using fMRI and TMS.
-
-5. David Eagleman, Ph.D. (Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine) - Renowned for his work on time perception, temporal processing, and the neural basis of subjective experience.  
-
-6. Hansem Sohn, Ph.D. (Department of Psychology, University of Seoul) - Investigates the cognitive and neural mechanisms of time perception, temporal attention, and multisensory integration. 
-
-7. Bin Yin, Ph.D. (Institute of Psychology, Chinese Academy of Sciences) - Combines neuroimaging, brain stimulation, and computational modeling to study the neural basis of timing and time perception.
-
-8. Daya Gupta, Ph.D. (Department of Biology, Camden County College) - Expert in neural coding and computational modeling of timing processes in the brain.  
-
-9. Marc Howard, Ph.D. (Department of Psychological and Brain Sciences, Boston University) - Develops mathematical and computational models of timing, memory, and cognition.
-
-10. Uma Karmarkar, Ph.D. (Rady School of Management, UC San Diego) - Studies neural mechanisms of temporal discounting, time perception, and decision making using fMRI.
+[Im, J. (2024) Brain as Lanuage Model Processor.](./BrainLM.md)
 
 # Version History
 - Version 1: Initial draft
 - Version 2: Added references and revised text, adds how to test the hypothesis. Separate the [alpha indivisuals theory](./Alpha.md) from the main text. 
 - Version 3: Added more references and revised text
-- Version 4: Revised based on comments to align with Science's guidelines. Restructured the abstract with Background, Advances, and Outlook sections. Added structured Discussion with Limitations and Future Directions. Unified reference format and added missing details. Provided a list of suggested reviewers aligned with the interdisciplinary nature of the hypothesis. Ensured all claims are substantiated by references and that speculative ideas are identified as such. Highlighted the novelty and broad implications of the hypothesis.
+- Version 4: Revised based on comments to align with Science's guidelines. Restructured the abstract with Background, Advances, and Outlook sections. Added structured Discussion with Limitations and Future Directions. Unified reference format and added missing details. Ensured all claims are substantiated by references and that speculative ideas are identified as such. Highlighted the novelty and broad implications of the hypothesis.

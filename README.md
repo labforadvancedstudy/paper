@@ -32,6 +32,12 @@
    - Wearable Glasses, Blockchain-based Privacy-Preserving Camera System with Payment
    - Thinks about Google Glass with blockchain payments and personal blackbox
 
+## 고전 논문 한글 번역
+
+- [Issaac Newton (1686) Principia](./1686-Newton.kr.md)
+  - 서문과 용어 정리
+- [A. M. TURING (1950) COMPUTING MACHINERY AND INTELLIGENCE](./1950-Turing.kr.md)
+
 ## 📘 Research
 
 ### 30 Theories in Science

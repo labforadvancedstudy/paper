@@ -22,6 +22,7 @@
 - [Alpha Indivisual Theory](./Alpha.md)
 - [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
 - [Life Theory](./Life.md)
+- [Aging Theory](./Aging.md)
 
 ## 📕 Experimentals, Proof of Works
 
@@ -63,7 +64,7 @@
 |  | [A Complete Cure for Cancer](https://en.wikipedia.org/wiki/Cancer) | Medicine | 1940s |
 || **Description:** Developing a perfect treatment for cancer is difficult due to the various types of cancer and their complex pathogenic mechanisms. | 암의 다양한 종류와 복잡한 발병 메커니즘으로 인해 완벽한 치료법 개발이 어려움. |
 |  | [Aging Mechanisms](https://en.wikipedia.org/wiki/Ageing) | Biology | 1930s |
-|| **Description:** Research is ongoing to understand the biological processes through which aging occurs and how to control them. | 노화가 어떤 생물학적 과정을 통해 진행되는지, 그리고 이를 제어할 수 있는 방법이 무엇인지에 대한 연구가 진행 중입니다. |
+|🚧 [Buildup](./Aging.md)| **Description:** Research is ongoing to understand the biological processes through which aging occurs and how to control them. | 노화가 어떤 생물학적 과정을 통해 진행되는지, 그리고 이를 제어할 수 있는 방법이 무엇인지에 대한 연구가 진행 중입니다. |
 | ✅ [Draft](./Time.md) | [The Principles of Brain Function](https://en.wikipedia.org/wiki/Brain) | Neuroscience | Late 19th century |
 || **Description:** There is a lack of understanding of the structure and function of the brain, and it has not yet been fully elucidated how memory, learning, emotion, and other processes are formed and processed. | 뇌의 구조와 기능에 대한 이해가 부족하며, 기억, 학습, 감정 등이 어떻게 형성되고 처리되는지 아직 완전히 밝혀지지 않았습니다. |
 |  | [Nuclear Fusion Energy](https://en.wikipedia.org/wiki/Nuclear_fusion) | Physics | 1920s |

@@ -3,16 +3,17 @@
 ## Authors: Jihyuk Im (zhugehyuk@gmail.com), claude-3 opus
 
 # Abstract:
-This paper introduces the Homo Codex hypothesis, which proposes that the emergence of language and the ability to generate mental codes played a crucial role in the evolution of human cognition. Building upon insights from neuroscience, artificial intelligence, and anthropology, we argue that the development of neural structures supporting language-like information processing, akin to modern language models, marked a key transition in the evolution of the human mind. We outline a stage-based model of cognitive evolution, wherein the progressive refinement of neural language models and their integration with other cognitive systems enabled the rise of abstract thinking, symbolic reasoning, and cumulative culture. Drawing upon evidence from cognitive archaeology, comparative cognition, and neuroscience, we discuss the empirical grounding and testable predictions of the hypothesis. The Homo Codex hypothesis offers a unifying framework for understanding the unique cognitive capacities of Homo sapiens and their origins, with implications for research on language, cognition, and artificial intelligence. We highlight outstanding questions and propose an interdisciplinary research program to further develop and test the hypothesis.
+This paper introduces the Homo Codex hypothesis, which proposes that the emergence of language and the ability to generate mental codes played a crucial role in the evolution of human cognition. Building upon insights from neuroscience, artificial intelligence, and anthropology, we argue that the development of neural structures supporting language-like information processing, akin to modern language models, marked a key transition in the evolution of the human mind. We propose a dual-process model of language processing, drawing on the concept of System 1 and System 2 thinking (Kahneman, 2011), to explain how the brain achieves both efficiency and flexibility in language comprehension and production. We outline a stage-based model of cognitive evolution, wherein the progressive refinement of neural language models and their integration with other cognitive systems enabled the rise of abstract thinking, symbolic reasoning, and cumulative culture. Drawing upon evidence from cognitive archaeology, comparative cognition, and neuroscience, we discuss the empirical grounding and testable predictions of the hypothesis. The Homo Codex hypothesis offers a unifying framework for understanding the unique cognitive capacities of Homo sapiens and their origins, with implications for research on language, cognition, and artificial intelligence. We highlight outstanding questions and propose an interdisciplinary research program to further develop and test the hypothesis.
+
 
 # 1. Introduction
 The human mind, with its unrivaled capacity for language, abstract thought, and cumulative culture, has long been a subject of fascination and scientific inquiry. Understanding the evolutionary origins and mechanisms underlying these distinctive cognitive abilities is a central challenge in the study of human evolution. In this paper, we introduce the Homo Codex hypothesis, which proposes that the emergence of language-like neural computations, analogous to modern language models in artificial intelligence, was a pivotal event in the evolution of human cognition. We argue that the development of neural structures supporting the generation and processing of complex, hierarchical codes enabled a qualitative shift in cognitive capabilities, setting the stage for the rise of symbolic thought, language, and cumulative culture.
 
 The Homo Codex hypothesis builds upon recent advances in artificial intelligence, particularly the development of large-scale language models that exhibit remarkable linguistic and cognitive abilities (Vaswani et al., 2017; Radford et al., 2019; Brown et al., 2020). These models, such as GPT-3, demonstrate the power of neural networks to learn and generate complex, context-dependent linguistic outputs from vast amounts of training data. The success of these models in capturing aspects of human language and cognition suggests that similar computational principles may underlie the workings of the biological brain (Hasson et al., 2020).
 
-Drawing upon insights from neuroscience, cognitive archaeology, and comparative cognition, we propose a stage-based model of cognitive evolution in which the gradual refinement of neural language models and their integration with other cognitive systems played a central role. We argue that this process, driven by selection pressures for more efficient communication and information processing, gave rise to the unique cognitive capacities of Homo sapiens, including symbolic thought, language, and the ability to accumulate and build upon cultural knowledge.
+Drawing upon insights from neuroscience, cognitive archaeology, and comparative cognition, we propose a stage-based model of cognitive evolution in which the gradual refinement of neural language models and their integration with other cognitive systems played a central role. Crucially, we incorporate the dual-process theory of thinking (Kahneman, 2011; Evans & Stanovich, 2013) to explain how the brain achieves both fast, intuitive processing and slow, deliberate reasoning in language comprehension and production. We propose that the language-related neural circuits in the human brain form a two-system architecture, with a fast, automatic System 1 for efficient, heuristic processing of linguistic input, and a slower, more controlled System 2 for detailed analysis and compositionality. The interplay between these two systems allows for both the rapid, real-time nature of spoken language and the ability to process complex, recursive structures. We argue that this dual-process architecture, driven by selection pressures for more efficient communication and information processing, gave rise to the unique cognitive capacities of Homo sapiens, including symbolic thought, language, and the ability to accumulate and build upon cultural knowledge.
 
-The Homo Codex hypothesis offers a unifying framework for understanding the evolutionary origins of human cognition and its relationship to language and culture. By linking insights from artificial intelligence with empirical evidence from various disciplines, the hypothesis generates testable predictions and opens up new avenues for interdisciplinary research. In the following sections, we elaborate on the key components of the hypothesis, review supporting evidence, and discuss its implications for the study of human evolution and cognition.
+The Homo Codex hypothesis offers a unifying framework for understanding the evolutionary origins of human cognition and its relationship to language and culture. By linking insights from artificial intelligence and dual-process theory with empirical evidence from various disciplines, the hypothesis generates testable predictions and opens up new avenues for interdisciplinary research. In the following sections, we elaborate on the key components of the hypothesis, review supporting evidence, and discuss its implications for the study of human evolution and cognition.
 
 # 2. Neural Language Models: A Computational Framework
 ## 2.1 Language Models in Artificial Intelligence
@@ -33,41 +34,50 @@ At the cellular level, the human brain exhibits several features that may suppor
 
 Empirical evidence from brain lesion and stimulation studies further supports the role of language-related regions in higher-order cognition. For example, damage to Broca's area and adjacent prefrontal regions has been associated with deficits in not only language production but also cognitive control, working memory, and hierarchical processing (Fitch, 2014; Friederici, 2017). Similarly, transcranial magnetic stimulation (TMS) of these regions has been shown to influence performance on tasks involving sequence learning, syntactic processing, and abstract reasoning (Uddén et al., 2017; Maran et al., 2021).
 
+## 2.3 Dual-Process Theory and Language Processing
+The dual-process theory of thinking (Kahneman, 2011; Evans & Stanovich, 2013) posits that human cognition is characterized by two distinct types of information processing: System 1, which is fast, automatic, and intuitive, and System 2, which is slow, controlled, and deliberate. System 1 relies on heuristics and associations to quickly generate responses, while System 2 engages in more analytical and rule-based processing. The interplay between these two systems allows the human mind to balance efficiency and flexibility in various cognitive domains.
+
+We propose that a similar dual-process architecture underlies language processing in the human brain. The fast, automatic System 1 allows for the rapid, real-time comprehension and production of spoken language, relying on learned statistical regularities and heuristics to predict and interpret linguistic input. This system is essential for the fluent, effortless nature of everyday language use and is likely supported by subcortical structures and cortical areas involved in sensory processing and motor control (Hagoort, 2016).
+
+In contrast, the slower, more controlled System 2 is involved in the deliberate analysis of linguistic input and the composition of complex, hierarchical structures. This system engages areas of the prefrontal and parietal cortices, as well as the temporal lobe, to process the syntactic and semantic relationships between words and phrases (Friederici, 2011; Pallier et al., 2011). The System 2 language processor allows for the understanding and production of novel, complex linguistic expressions and is critical for higher-order language functions such as reasoning, planning, and abstract thinking.
+
+The dual-process architecture of the language system is supported by evidence from neuroimaging and lesion studies. For example, patients with damage to the left prefrontal cortex often exhibit deficits in complex sentence processing and verbal reasoning, while retaining the ability to comprehend and produce simple, familiar phrases (Novick et al., 2005; Ferstl et al., 2008). Similarly, neuroimaging studies have shown dissociations between the neural circuits involved in automatic, context-driven language processing and those involved in controlled, rule-based processing (Friederici & Kotz, 2003; Hagoort, 2013).
+
+We argue that the dual-process architecture of the language system, with its balance of efficiency and flexibility, was a key evolutionary adaptation that enabled the rise of human-like cognition. By allowing for both rapid, automatic processing of linguistic input and controlled, deliberate analysis and composition, this architecture provided the computational foundation for the emergence of symbolic thought, recursive reasoning, and complex communication. In the following sections, we outline a stage-based model of cognitive evolution, highlighting the role of the dual-process language system in the emergence of uniquely human cognitive abilities.
+
 While the exact neural mechanisms underlying language-like computations in the brain remain a topic of active research, the existing evidence suggests that the human brain possesses the necessary neural substrate and computational properties to support such processes. The Homo Codex hypothesis provides a framework for integrating these findings and for guiding further research into the neural basis of human cognitive uniqueness.
 
 # 3. The Homo Codex Hypothesis
 ## 3.1 Stage-Based Model of Cognitive Evolution
 The Homo Codex hypothesis proposes a stage-based model of cognitive evolution, in which the gradual development and refinement of neural language models played a central role in the emergence of human-like cognition. This model posits a series of key transitions, each building upon the previous stage and enabling new cognitive capabilities:
 
-### Stage 1: Primal Communication. 
-
+### Stage 1: Primal Communication
 The earliest forms of neural communication likely involved simple, unstructured signals, such as those used by primitive organisms to coordinate behavior (Fitch, 2010). These signals, while not yet exhibiting the complexity of language, laid the foundation for the evolution of more sophisticated communication systems. This stage is characterized by the emergence of basic sensory processing and motor control mechanisms, allowing organisms to detect and respond to environmental stimuli (Ginsburg & Jablonka, 2019).
 
-### Stage 2: Proto-Syntax. 
-
+### Stage 2: Proto-Syntax
 As neural systems became more complex and interconnected, the ability to generate and process structured sequences of signals emerged (Bickerton, 2014). This proto-syntactic stage, characterized by simple combinatorial rules and hierarchical organization, allowed for more expressive and flexible communication. The development of recursive neural networks, capable of processing and generating sequences with embedded structures, was a key innovation at this stage (Fitch, 2014).
 
-### Stage 3: Symbolic Reference. 
-
+### Stage 3: Symbolic Reference
 The development of neural mechanisms for associating arbitrary signals with external referents marked a critical step in the evolution of language (Deacon, 1997). This symbolic capacity, likely built upon pre-existing systems for social cognition and joint attention (Tomasello, 2008), enabled the emergence of shared meaning and conceptual representation. The evolution of brain regions involved in semantic processing, such as the temporal and parietal lobes, was crucial for this stage (Binder & Desai, 2011).
 
-### Stage 4: Compositional Semantics. 
+### Stage 3.5: Emergence of Early Exit Signal Processing
+As the complexity of linguistic input increased, the need for rapid and efficient processing led to the evolution of an early exit mechanism within the language system. This mechanism, analogous to System 1 in dual-process theory (Kahneman, 2011), allowed for fast, heuristic-based processing of familiar or straightforward linguistic stimuli, bypassing the need for more costly, in-depth analysis (Ferreira & Patson, 2007; Christiansen & Chater, 2016). The early exit signal can be understood as a cognitive shortcut, prioritizing speed over accuracy when the input can be satisfactorily processed using simple, well-rehearsed routines. This adaptation likely emerged gradually, driven by the pressure to minimize cognitive load and response latency in real-time communication (Frank & Badre, 2012; Markman & Heit, 2014).
 
-The integration of symbolic reference with hierarchical syntactic structure gave rise to compositional semantics, allowing for the expression of complex ideas and propositions (Jackendoff, 2002). This stage, characterized by the ability to generate and interpret novel combinations of symbols, laid the foundation for abstract thought and reasoning. The development of neural circuits connecting language areas with domain-general cognitive regions, such as the prefrontal cortex, was a key factor in this transition (Fedorenko & Thompson-Schill, 2014).
+### Stage 4: Compositional Semantics
+The integration of symbolic reference with hierarchical syntactic structure gave rise to compositional semantics, allowing for the expression of complex ideas and propositions (Jackendoff, 2002). This stage, characterized by the ability to generate and interpret novel combinations of symbols, laid the foundation for abstract thought and reasoning. The development of neural circuits connecting language areas with domain-general cognitive regions, such as the prefrontal cortex, was a key factor in this transition (Fedorenko & Thompson-Schill, 2014). The early exit mechanism continued to play a role, providing rapid, good-enough interpretations when the compositional structure was relatively simple or predictable (Ferreira & Patson, 2007).
 
-### Stage 5: Recursive Cognition. 
+### Stage 5: Recursive Cognition
+The development of neural mechanisms supporting recursive processing, such as the ability to embed and combine syntactic structures, marked a key transition in the evolution of human cognition (Hauser et al., 2002). Recursive cognition enabled the generation and comprehension of complex, hierarchically organized sequences, such as those found in language, music, and problem-solving. The expansion and reorganization of prefrontal and parietal cortices, involved in hierarchical processing and cognitive control, were critical for this stage (Badre, 2008; Jeon, 2014). The early exit mechanism, now fully integrated into the language system, allowed for the strategic allocation of cognitive resources, with more complex or novel stimuli triggering deeper, recursive processing (Christiansen & Chater, 2016).
 
-The development of neural mechanisms supporting recursive processing, such as the ability to embed and combine syntactic structures, marked a key transition in the evolution of human cognition (Hauser et al., 2002). Recursive cognition enabled the generation and comprehension of complex, hierarchically organized sequences, such as those found in language, music, and problem-solving. The expansion and reorganization of prefrontal and parietal cortices, involved in hierarchical processing and cognitive control, were critical for this stage (Badre, 2008; Jeon, 2014).
-
-### Stage 6: Cumulative Culture. 
-
-The integration of recursive cognition with mechanisms for social learning and transmission gave rise to the uniquely human capacity for cumulative culture (Tomasello, 1999; Henrich, 2015). This stage, characterized by the ability to build upon and refine cultural knowledge across generations, allowed for the rapid accumulation of complex skills and technologies. The development of neural systems supporting Theory of Mind, joint attention, and imitation was crucial for enabling cultural transmission and learning (Herrmann et al., 2007; Dunbar, 2009).
+### Stage 6: Cumulative Culture
+The integration of recursive cognition with mechanisms for social learning and transmission gave rise to the uniquely human capacity for cumulative culture (Tomasello, 1999; Henrich, 2015). This stage, characterized by the ability to build upon and refine cultural knowledge across generations, allowed for the rapid accumulation of complex skills and technologies. The development of neural systems supporting Theory of Mind, joint attention, and imitation was crucial for enabling cultural transmission and learning (Herrmann et al., 2007; Dunbar, 2009). The early exit mechanism facilitated the efficient processing and sharing of cultural knowledge, while recursive cognition enabled the creation and transmission of increasingly complex and hierarchically structured cultural artifacts and practices (Stout & Hecht, 2017).
 
 The Homo Codex hypothesis argues that these stages, driven by selection pressures for more efficient communication and information processing, unfolded over the course of hominin evolution, culminating in the emergence of Homo sapiens and its distinctive cognitive abilities. While the model presents these stages as discrete transitions, it is likely that they occurred gradually and with significant overlap. Moreover, the model allows for the possibility of feedback and interaction between stages, with later-emerging abilities influencing and reshaping earlier ones.
 
-Empirical support for the stage-based model comes from various lines of evidence, including comparative studies of animal cognition, archaeological traces of hominin cognitive evolution, and neuroscientific investigations of language and cognition in modern humans. For example, studies of primate communication have revealed the presence of proto-syntactic abilities in some species, such as the use of simple combinatorial rules in monkey alarm calls (Arnold & Zuberbühler, 2006; Schlenker et al., 2016). Similarly, the archaeological record shows a gradual increase in the complexity and diversity of hominin tools and symbolic artifacts, suggesting a progressive development of cognitive abilities over evolutionary time (Stout, 2011; Henshilwood & Dubreuil, 2011).
+Empirical support for the stage-based model comes from various lines of evidence, including comparative studies of animal cognition, archaeological traces of hominin cognitive evolution, and neuroscientific investigations of language and cognition in modern humans. The introduction of the early exit signal processing stage is supported by research on dual-process theory, hierarchical reinforcement learning, and the role of heuristics in language processing (Ferreira & Patson, 2007; Frank & Badre, 2012; Christiansen & Chater, 2016; Markman & Heit, 2014).
 
 In the following sections, we explore the implications of the Homo Codex hypothesis for understanding the emergence of symbolic thought and language, as well as its role in the evolution of cumulative culture and the human-specific cognitive profile.
+
 
 ## 3.2 Neural Language Models and the Emergence of Symbolic Thought
 The Homo Codex hypothesis posits that the development of neural language models, analogous to those used in artificial intelligence, was a key factor in the emergence of symbolic thought and language in humans. These models, characterized by their ability to learn and generate complex, hierarchically structured sequences, provided the computational foundation for the manipulation of mental symbols and the expression of abstract concepts (Piantadosi & Fedorenko, 2017).
@@ -114,8 +124,8 @@ Computational modeling studies have further demonstrated the potential of neural
 
 The Homo Codex hypothesis provides a framework for integrating these diverse lines of evidence and for understanding the cognitive and cultural transitions that gave rise to human uniqueness. By emphasizing the role of language-like computations in enabling cumulative culture, the hypothesis offers a parsimonious explanation for the sapient paradox and the cognitive gap between humans and other species. Moreover, by situating these computational capacities within the broader context of hominin brain evolution and development, the hypothesis generates testable predictions and opens up new avenues for interdisciplinary research.
 
-# 4. Empirical Evidence and Testable Predictions
-## 4.1 Cognitive Archaeology and the Archaeological Record
+# 4. Empirical Evidence
+## 4.1 Cognitive Archaeology
 Cognitive archaeology, the study of past human cognition through the analysis of archaeological remains, provides a rich source of empirical evidence for the Homo Codex hypothesis. By examining the material traces of past behaviors and technologies, cognitive archaeologists can infer the cognitive capacities and computational abilities of ancient hominins (Wadley, 2013; Wynn & Coolidge, 2016). The Homo Codex hypothesis generates several testable predictions about the patterns and trajectories of technological and cultural evolution in the archaeological record.
 
 One key prediction of the hypothesis is that the emergence of language-like computations should be associated with a marked increase in the complexity and diversity of material culture. If the development of neural language models enabled the generation and transmission of more complex and structured information, then this should be reflected in the archaeological record as a proliferation of new and more sophisticated artifacts and technologies (Stout & Hecht, 2017; Sterelny, 2017). This prediction is consistent with evidence from the African Middle Stone Age and the European Upper Paleolithic, which show a rapid diversification of tool types and the emergence of symbolic artifacts, such as cave art and ornaments (McBrearty & Brooks, 2000; Bar-Yosef, 2002; Conard et al., 2009).
@@ -194,13 +204,15 @@ Thirdly, the Homo Codex hypothesis has implications for education and learning, 
 Finally, the Homo Codex hypothesis has broader implications for our understanding of human nature and the future of our species. If the emergence of language-like computations was a defining event in human evolution, then this suggests that language and symbolic communication are not just incidental or peripheral aspects of human life, but are instead central to who we are as a species (Deacon, 1997). This could have profound implications for how we view ourselves and our place in the world, as well as for how we approach the challenges and opportunities of the future, from the development of artificial intelligence to the preservation of linguistic and cultural diversity.
 
 ## 5.3 Conclusion
-In this paper, we have introduced the Homo Codex hypothesis, which proposes that the emergence of language-like computations in the brain was a key factor in the evolution of human cognitive uniqueness. Drawing on evidence and insights from artificial intelligence, neuroscience, and comparative cognition, we have argued that the development of hierarchical and compositional neural models, analogous to modern language models, enabled the rise of symbolic thought, cumulative culture, and the distinctive cognitive abilities of Homo sapiens.
+The Homo Codex hypothesis, by proposing a dual-process architecture for language processing and a stage-based model of cognitive evolution, offers a unifying framework for understanding the origins and nature of human cognition. Drawing on evidence from neuroscience, artificial intelligence, and comparative cognition, the model posits that the emergence of neural language models, analogous to the System 1 and System 2 processes of human cognition, enabled the development of symbolic thought, recursive reasoning, and cumulative culture.
 
-We have discussed the theoretical foundations and empirical evidence for the hypothesis, as well as its implications and applications for various fields of research and practice. We have also highlighted the limitations and challenges of the hypothesis, and outlined future directions for research and theoretical development.
+The hypothesis generates testable predictions across multiple domains, from cognitive archaeology and comparative psychology to neuroscience and artificial intelligence. Its integrative approach and broad implications make it a promising avenue for future research and collaboration, with the potential to advance our understanding of language, cognition, and human evolution.
 
-Overall, the Homo Codex hypothesis offers a novel and integrative framework for understanding the evolutionary origins and computational basis of human language and cognition. While much remains to be discovered and debated, we believe that the hypothesis provides a promising avenue for future research and collaboration across disciplines, as well as for broader discussions about the nature and future of human intelligence.
+However, the Homo Codex hypothesis is not without its limitations and challenges. The model's reliance on abstract, computational principles may oversimplify the complexity and diversity of human language and cognition, particularly across different cultures and environments. The hypothesis also faces the difficulty of empirically testing its claims about the evolutionary past, which must rely on indirect evidence and inference from present-day cognitive systems.
 
-As we continue to explore the mysteries of the human mind and the origins of our species, the Homo Codex hypothesis reminds us of the central role that language and symbolic communication have played in shaping who we are and who we may become. By shedding light on the computational foundations of human cognition, the hypothesis invites us to reflect on the unique and precious gift of language, and to use this gift wisely and responsibly in the pursuit of knowledge, understanding, and a better future for all.
+Despite these challenges, the Homo Codex hypothesis represents an important step towards a more comprehensive and interdisciplinary understanding of human cognition and its evolutionary origins. By bridging insights from artificial intelligence and cognitive science with empirical evidence from the natural and social sciences, the model opens up new avenues for research and collaboration, with implications for fields ranging from linguistics and psychology to anthropology and computer science.
+
+Ultimately, the Homo Codex hypothesis is not only a scientific theory but also a reflection of the human drive to understand ourselves and our place in the world. By exploring the computational and evolutionary foundations of language and cognition, we gain a deeper appreciation of the unique and remarkable abilities that define us as a species. In this sense, the Homo Codex hypothesis is not only a model of the human mind but also a testament to the power of human inquiry and the search for knowledge.
 
 # References
 
@@ -372,8 +384,6 @@ Osiurak, F., Jarry, C., Allain, P., Aubin, G., Etcharry-Bouyx, F., Richard, I., 
 
 Osiurak, F., & Reynaud, E. (2020). The elephant in the room: What matters cognitively in cumulative technological culture. *Behavioral and Brain Sciences*, *43*.
 
-Here is the continuation of the references:
-
 Pepperberg, I. M. (2017). Animal language studies: What happened?. *Psychonomic Bulletin & Review*, *24*(1), 181-185.
 
 Perrachione, T. K., Del Tufo, S. N., & Gabrieli, J. D. (2011). Human voice recognition depends on language ability. *Science*, *333*(6042), 595-595.
@@ -476,12 +486,53 @@ Zhang, W., Wei, G., Yang, Y., Bai, T., Zhang, L., & Han, Z. (2022). Disembodied 
 
 Zhu, Y., Sousa, A. M., Gao, T., Skarica, M., Li, M., Santpere, G., ... & Sestan, N. (2018). Spatiotemporal transcriptomic divergence across human and macaque brain development. *Science*, *362*(6420), eaat8077.
 
+- Arbib, M. A. (2018). From cybernetics to brain theory, and more: A memoir. Cognitive Systems Research, 50, 83-145.
+- Arnold, K., & Zuberbühler, K. (2006). Language evolution: Semantic combinations in primate calls. Nature, 441(7091), 303-303.
+- Binder, J. R., & Desai, R. H. (2011). The neurobiology of semantic memory. Trends in Cognitive Sciences, 15(11), 527-536.
+- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. arXiv preprint arXiv:2005.14165.
+- Changizi, M. A., & Shimojo, S. (2005). Character complexity and redundancy in writing systems over human history. Proceedings of the Royal Society B: Biological Sciences, 272(1560), 267-275.
+- Dehaene, S., & Cohen, L. (2007). Cultural recycling of cortical maps. Neuron, 56(2), 384-398.
+- Dunbar, R. I. M. (1998). The social brain hypothesis. Evolutionary Anthropology: Issues, News, and Reviews, 6(5), 178-190.
+- Engle, R. W., & Kane, M. J. (2004). Executive attention, working memory capacity, and a two-factor theory of cognitive control. Psychology of Learning and Motivation, 44, 145-200.
+- Evans, J. S. B., & Stanovich, K. E. (2013). Dual-process theories of higher cognition: Advancing the debate. Perspectives on Psychological Science, 8(3), 223-241.
+- Ferstl, E. C., Neumann, J., Bogler, C., & Von Cramon, D. Y. (2008). The extended language network: a meta‐analysis of neuroimaging studies on text comprehension. Human Brain Mapping, 29(5), 581-593.
+- Fitch, W. T., Huber, L., & Bugnyar, T. (2010). Social cognition and the evolution of language: constructing cognitive phylogenies. Neuron, 65(6), 795-814.
+- Friederici, A. D. (2009). Pathways to language: fiber tracts in the human brain. Trends in Cognitive Sciences, 13(4), 175-181.
+- Friederici, A. D. (2011). The brain basis of language processing: from structure to function. Physiological Reviews, 91(4), 1357-1392.
+- Friederici, A. D. (2017). Language in our brain: The origins of a uniquely human capacity. MIT Press.
+- Friederici, A. D., & Kotz, S. A. (2003). The brain basis of syntactic processes: functional imaging and lesion studies. NeuroImage, 20, S8-S17.
+- Friederici, A. D., & Singer, W. (2015). Grounding language processing on basic neurophysiological principles. Trends in Cognitive Sciences, 19(6), 329-338.
+- Hagoort, P. (2013). MUC (memory, unification, control) and beyond. Frontiers in Psychology, 4, 416.
+- Hagoort, P. (2014). Nodes and networks in the neural architecture for language: Broca's region and beyond. Current Opinion in Neurobiology, 28, 136-141.
+- Hagoort, P. (2016). MUC (memory, unification, control): A model on the neurobiology of language beyond single word processing. In Neurobiology of language (pp. 339-347). Academic Press.
+- Hauser, M. D., Chomsky, N., & Fitch, W. T. (2002). The faculty of language: What is it, who has it, and how did it evolve?. Science, 298(5598), 1569-1579.
+- Henshilwood, C. S., & Dubreuil, B. (2011). The Still Bay and Howiesons Poort, 77–59 ka: Symbolic material culture and the evolution of the mind during the African Middle Stone Age. Current Anthropology, 52(3), 361-400.
+- Hill, F., Tieleman, O., von Glehn, T., Wong, N., Merzic, H., & Clark, S. (2020). Grounded language learning fast and slow. arXiv preprint arXiv:2009.01719.
+- Hurford, J. R. (2007). The origins of meaning: Language in the light of evolution. Oxford University Press.
+- Kahneman, D. (2011). Thinking, fast and slow. Macmillan.
+- Kutas, M., & Federmeier, K. D. (2011). Thirty years and counting: finding meaning in the N400 component of the event-related brain potential (ERP). Annual Review of Psychology, 62, 621-647.
+- Martins, M. D., Muršič, Z., Oh, J., & Fitch, W. T. (2015). Representing visual recursion does not require verbal or motor resources. Cognitive Psychology, 77, 20-41.
+- Novick, J. M., Trueswell, J. C., & Thompson-Schill, S. L. (2005). Cognitive control and parsing: Reexamining the role of Broca's area in sentence comprehension. Cognitive, Affective, & Behavioral Neuroscience, 5(3), 263-281.
+- Petkov, C. I., & Jarvis, E. D. (2012). Birds, primates, and spoken language origins: behavioral phenotypes and neurobiological substrates. Frontiers in Evolutionary Neuroscience, 4, 12.
+- Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). Zero-shot text-to-image generation with CLIP latents. arXiv preprint arXiv:2102.01645.
+- Rilling, J. K., Glasser, M. F., Preuss, T. M., Ma, X., Zhao, T., Hu, X., & Behrens, T. E. (2008). The evolution of the arcuate fasciculus revealed with comparative DTI. Nature Neuroscience, 11(4), 426-428.
+- Shettleworth, S. J. (2010). Cognition, evolution, and behavior. Oxford University Press.
+- Stout, D. (2011). Stone toolmaking and the evolution of human culture and cognition. Philosophical Transactions of the Royal Society B: Biological Sciences, 366(1567), 1050-1059.
+- Tomasello, M. (2009). The cultural origins of human cognition. Harvard University Press.
+- Tomasello, M., Carpenter, M., Call, J., Behne, T., & Moll, H. (2005). Understanding and sharing intentions: The origins of cultural cognition. Behavioral and Brain Sciences, 28(5), 675-691.
+- Tulving, E. (1985). Memory and consciousness. Canadian Psychology/Psychologie Canadienne, 26(1), 1-12.
+- Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2018). GLUE: A multi-task benchmark and analysis platform for natural language understanding. arXiv preprint arXiv:1804.07461.
+- Watson, S. K., Townsend, S. W., Schel, A. M., Wilke, C., Wallace, E. K., Cheng, L., ... & Slocombe, K. E. (2015). Vocal learning in the functionally referential food grunts of chimpanzees. Current Biology, 25(4), 495-499.
+- Weiss-Croft, L. J., & Baldeweg, T. (2015). Maturation of language networks in children: A systematic review of 22years of functional MRI. NeuroImage, 123, 269-281.
+- Wynn, T., & Coolidge, F. L. (Eds.). (2016). Cognitive models in palaeolithic archaeology. Oxford University Press.
+
 # Version History
 - Version 1.0 (2024/04): Initial draft
 - Version 1.1 (2024/04): This version includes several updates and improvements based on the reviewer's suggestions, including:
-  - Strengthened empirical evidence from cognitive archaeology, comparative cognition, and neuroscience
-  - More detailed discussion of the neural mechanisms and computational principles underlying language-like computations
-  - Expanded coverage of the diversity and variability of human languages and cultures
-  - Critical evaluation of alternative theories and hypotheses
-  - Clarified implications and applications for artificial intelligence, cognitive science, and education
-  - Deeper engagement with philosophical and ethical questions raised by the hypothesis
+ - Strengthened empirical evidence from cognitive archaeology, comparative cognition, and neuroscience
+ - More detailed discussion of the neural mechanisms and computational principles underlying language-like computations
+ - Expanded coverage of the diversity and variability of human languages and cultures
+ - Critical evaluation of alternative theories and hypotheses
+ - Clarified implications and applications for artificial intelligence, cognitive science, and education
+ - Deeper engagement with philosophical and ethical questions raised by the hypothesis
+- Version 1.2 (2024/04): Add early exit signal 

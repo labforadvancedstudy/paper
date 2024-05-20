@@ -18,11 +18,11 @@
 ](./HeroEssay.kr.md)
 
 ### Paper
-- [Brain are Lanuage Model](./BrainLM.md)
+- ⭐ [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
+- [Brain as Lanuage Model](./BrainLM.md)
 - [Alpha Indivisual Theory](./Alpha.md)
-- [Time Theory](./Time.md) - The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis
+- [The Language of Giants: Deciphering Sperm Whale Vocalizations with AI](./Whale.md)
 - [Life Theory](./Life.md)
-- [Aging Theory](./Aging.md)
 
 ## 📕 Experimentals, Proof of Works
 

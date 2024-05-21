@@ -79,5 +79,4 @@ Buckner, R. L. (2004). Memory and executive function in aging and AD: multiple f
 Hofman, M. A. (1983). Energy metabolism, brain size and longevity in mammals. The Quarterly Review of Biology, 58(4), 495-512.
 Nesse, R. M., & Williams, G. C. (1994). Why We Get Sick: The New Science of Darwinian Medicine. Times Books.
 Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237-10239.
-Im, J. (2024). The Relativity of Subjective Time Theory.
-
+[Im, J. (2024). The Relativity of Subjective Time Theory.](./Time.md)

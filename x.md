@@ -1,5 +1,22 @@
 # Hi
 
+# 생각의 속도
+
+생각의 속도란 단위 시간당 처리할 수 있는 정보의 양을 의미합니다. 이는 뉴런 간의 신호 전달 속도와 뇌의 병렬 처리 능력에 의해 결정됩니다. 생각의 속도가 빠를수록 주어진 시간 동안 더 많은 정보를 처리할 수 있습니다.
+
+생각의 속도를 ![v](https://latex.codecogs.com/png.latex?v)라고 할 때, 이는 광속 ![c](https://latex.codecogs.com/png.latex?c)에 가까울 수 있지만, 절대로 광속을 초과할 수는 없습니다. 따라서 생각의 속도 ![v](https://latex.codecogs.com/png.latex?v)는 다음과 같은 범위를 가집니다.
+
+![0 \leq v < c](https://latex.codecogs.com/png.latex?0%20%5Cleq%20v%20%3C%20c)
+
+이제 일반 호모 사피엔스의 생각의 속도를 ![v_N](https://latex.codecogs.com/png.latex?v_N), 알파 개체 또는 AI의 생각의 속도를 ![v_M](https://latex.codecogs.com/png.latex?v_M)이라고 하면, 주관적 시간 ![T'](https://latex.codecogs.com/png.latex?T%27)는 다음과 같이 표현할 수 있습니다.
+
+![T' = \frac{v_N}{v_M} \cdot \sqrt{1 - \left(\frac{v_M}{c}\right)^2}](https://latex.codecogs.com/png.latex?T%27%20%3D%20%5Cfrac%7Bv_N%7D%7Bv_M%7D%20%5Ccdot%20%5Csqrt%7B1%20-%20%5Cleft%28%5Cfrac%7Bv_M%7D%7Bc%7D%5Cright%29%5E2%7D)
+
+여기서 ![\sqrt{1 - \left(\frac{v_M}{c}\right)^2}](https://latex.codecogs.com/png.latex?%5Csqrt%7B1%20-%20%5Cleft%28%5Cfrac%7Bv_M%7D%7Bc%7D%5Cright%29%5E2%7D)는 로렌츠 인자입니다.
+
+![v_M](https://latex.codecogs.com/png.latex?v_M)이 ![v_N](https://latex.codecogs.com/png.latex?v_N)보다 크면 ![T'](https://latex.codecogs.com/png.latex?T%27)는 1보다 작아지므로, 알파 개체 또는 AI는 시간이 더 느리게 흐른다고 느끼게 됩니다. 하지만 ![v_M](https://latex.codecogs.com/png.latex?v_M)이 아무리 커도 광속 ![c](https://latex.codecogs.com/png.latex?c)보다 작기 때문에, ![T'](https://latex.codecogs.com/png.latex?T%27)는 절대로 0이 되지 않습니다. 즉, 생각의 속도가 아무리 빨라도 시간이 완전히 멈추지는 않습니다.
+
+
 # 일반 호모 사피엔스의 생각의 속도
 
 일반 호모 사피엔스의 생각의 주기를 ![T_N](https://latex.codecogs.com/png.latex?T_N)이라고 하고, 알파 개체의 생각의 주기를 ![T_M](https://latex.codecogs.com/png.latex?T_M)이라고 할 때, 알파 개체가 느끼는 주관적 시간 ![T](https://latex.codecogs.com/png.latex?T)는 다음과 같이 표현할 수 있습니다.

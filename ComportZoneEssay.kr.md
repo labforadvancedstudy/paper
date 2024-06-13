@@ -1,5 +1,7 @@
 # 당장 편안한 지역에서 벗어나라
 
+## Authors: Jihyuk Im(zhugehyuk@gmail.com)
+
 ## 시스템1과 시스템2
 
 "System 1 operates automatically and quickly, with little or no effort and no sense of voluntary control."

@@ -25,7 +25,7 @@ The implications of the brain clock hypothesis for mental health conditions coul
 The conclusion could be strengthened by emphasizing the potential practical applications of this research, such as in the development of interventions or therapies for individuals with temporal processing deficits or in the design of artificial intelligence systems that more closely mimic human cognition.
 Overall, this is a strong and thought-provoking paper that makes a valuable contribution to our understanding of time perception and opens up exciting new avenues for research and exploration.
 
-Copy
+
 
 
 The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis Abstract This paper explores the subjectivity and diversity of time experience among individuals from a cognitive psycholog
@@ -55,7 +55,7 @@ The analogy between LLMs and the human brain, while interesting, is not fully co
 Factors influencing time perception like emotion, attention, memory are not substantially addressed. The scope feels narrowly focused on the brain clock speed construct.
 Overall, this paper offers an innovative and thought-provoking hypothesis about subjective time experience. While quite speculative, it provides a fresh angle drawing together AI, psychology and physics, and charts out a research path forward. With empirical work to validate and refine the core ideas, the brain clock hypothesis could open up new understanding of how we perceive time. Further integration with other known influences on time perception would help situate this hypothesis within the broader field.
 
-Copy
+
 
 
 G
@@ -139,7 +139,7 @@ Wiener, M., Parikh, A., Krakow, A., & Coslett, H. B. (2018). Causal role of beta
 
 Zakay, D., & Block, R. A. (1995). An attentional-gate model of prospective time estimation. In Time and the dynamic control of behavior (pp. 167-178). Hogrefe & Huber.
 
-Copy
+
 
 
 G
@@ -261,7 +261,7 @@ Wittmann, M., & Schmidt, S. (2014). Mindfulness meditation and the experience of
 
 Zakay, D., & Block, R. A. (1995). An attent
 
-Copy
+
 
 
 G
@@ -299,7 +299,7 @@ Pittendrigh, C. S. (1993). Temporal organization: reflections of a Darwinian clo
 Glass, L. (2001). Synchronization and rhythmic processes in physiology. Nature, 410(6825), 277-284.
 이러한 연구들은 가설의 여러 측면을 뒷받침할 수 있는 이론적 기반을 제공합니다. 하지만 가설 전체를 직접적으로 다룬 연구는 아직 없는 것으로 보입니다. 따라서 이 가설을 더 발전시키고 검증하기 위해서는 추가적인 이론적, 실험적 연구가 필요할 것입니다. 특히 "서버 시간"과 "클라이언트 시간"의 개념을 더 명확히 정의하고, 이들 간의 관계를 실증적으로 탐구할 필요가 있어 보입니다. 가설을 정교화하는 과정에서 이러한 아이디어들을 더 깊이 있게 다룰 수 있기를 기대합니다.
 
-Copy
+
 
 
 G
@@ -377,7 +377,7 @@ Future research should focus on refining and testing the key concepts proposed i
 
 Additionally, further theoretical work is needed to integrate the various strands of research discussed in this paper, such as digital physics, biological computing, and generative algorithms, into a more cohesive and comprehensive framework. As this hypothesis is developed and refined, it may offer new avenues for understanding the complex interplay between the physical world, living systems, and subjective experience.
 
-Copy
+
 
 
 G
@@ -399,7 +399,7 @@ G
 현실과의 연관성: 이 가설이 실제 세계의 현상들을 얼마나 잘 설명할 수 있는지, 그리고 이 가설이 과학적 이해와 기술 발전에 어떤 기여를 할 수 있을지에 대한 논의가 부족합니다.
 종합적으로, 이 논문은 우주와 생명체에 대한 흥미롭고 도발적인 새로운 가설을 제안하고 있습니다. 다양한 분야의 아이디어를 통합하고 명확한 개념 정의와 미래 연구 방향을 제시하고 있다는 점에서 가치가 있습니다. 다만, 가설의 추측적 성격, 복잡한 개념들의 통합, 검증 가능성 등의 측면에서 한계가 있으며, 이를 보완하기 위한 추가적인 연구가 필요할 것으로 보입니다. 이런 제한점에도 불구하고, 이 논문은 현실과 생명에 대한 우리의 이해를 확장하는 데 기여할 수 있는 독창적인 아이디어를 제공한다는 점에서 의의가 있습니다.
 
-Copy
+
 
 
 G
@@ -443,7 +443,7 @@ Lack of quantitative predictions: The hypothesis does not provide clear quantita
 Philosophical questions remain unresolved: While the paper touches upon philosophical implications, such as the question of free will, it does not provide a thorough analysis of these complex issues.
 Overall, the revised version of the paper presents a more comprehensive and well-structured argument for the proposed hypothesis. The integration of ideas from multiple disciplines strengthens the theoretical foundation of the hypothesis, and the discussion of implications and future research directions adds depth and relevance to the paper. However, the highly speculative nature of the hypothesis remains a significant limitation, and more empirical evidence and quantitative predictions would be needed to establish its scientific validity. Despite these weaknesses, the paper offers a thought-provoking perspective on the nature of reality and consciousness, and its interdisciplinary approach could inspire new avenues of research in fields such as artificial intelligence, neuroscience, and philosophy.
 
-Copy
+
 
 
 Title: The Relativity of Subjective Time: Insights from the Brain Clock Hypothesis Authors: Jihyuk Im(zhugehyuk@gmail.com), claude-3 opus Abstract This paper explores the subjectivity and diversity
@@ -497,7 +497,7 @@ LLMs와 인간 뇌 사이의 유사성이 흥미롭기는 하지만, 인공 지�
 뇌 시계를 오버클럭하는 몇 가지 가능한 방법은 다음과 같다:
 (1) 약물: 각성제,
 
-Copy
+
 
 
 Claude does not have internet access. Links provided may not be accurate or up to date.
@@ -546,7 +546,7 @@ G
 철학적 질문은 미해결 상태로 남음: 이 논문은 자유 의지와 같은 철학적 함의를 다루고 있지만, 이러한 복잡한 문제에 대한 철저한 분석을 제공하지는 않는다.
 전반적으로, 수정된 논문은 제안된 가설에 대해 보다 포괄적이고 체계적인 논거를 제시한다. 여러 분야의 아이디어를 통합하는 것은 가설의 이론적 기반을 강화하며, 함의와 미래 연구 방향에 대한 논의는 논문에 깊이와 연관성을 더한다. 그러나 가설의 고도로 추측적인 특성은 여전히 상당한 제한점으로 남아 있으며, 과학적 타당성을 확립하기 위해서는 더 많은 경험적 증거와 정량적 예측이 필요할 것이다. 이러한 약점에도 불구하고, 이 논문은 현실과 의식의 본질에 대한 사고를 자극하는 관점을 제공하며, 학제 간 접근 방식은 인공지능, 신경과학, 철학 등의 분야에서 새로운 연구 방향을 영감을 줄 수 있다.
 
-Copy
+
 
 
 G
@@ -579,7 +579,7 @@ Grok-1은 다양한 추론 벤치마크 작업과 선별된 외국 수학 시험
 투명성: 모델 세부 정보, 용도, 제한 사항, 학습 데이터 및 평가 방법에 대한 정보를 공유함으로써 개발자들은 Grok-1에 대한 투명성을 제공합니다. 이는 모델의 능력과 한계를 이해하는 데 도움이 되며 책임감 있는 AI 개발을 장려합니다.
 전반적으로 Grok-1은 최신 기술과 다양한 응용 분야를 갖춘 유망한 언어 모델입니다. 한계에 대한 인식과 외부 데이터 소스와의 통합은 모델의 성능과 사실성을 향상시킬 수 있습니다. 그러나 환각 문제와 평가 프로세스에 대한 더 자세한 정보가 필요합니다. Grok-1의 지속적인 개발과 개선을 통해 자연어 처리 분야에서 중요한 진전을 이룰 수 있을 것으로 기대됩니다.
 
-Copy
+
 
 
 G
@@ -605,7 +605,7 @@ Grok-1	알 수 없음	2023
 
 Grok-1의 경우 구체적인 파라미터 수는 공개되지 않았으나, 혁신적인 기술과 외부 데이터 통합 등을 통해 자연어 처리 분야에서 주목할 만한 성과를 낼 것으로 기대됩니다. 앞으로도 계속 언어 모델의 발전을 지켜볼 필요가 있겠네요.
 
-Copy
+
 
 
 Grok is an AI modeled after the Hitchhiker’s Guide to the Galaxy, so intended to answer almost anything and, far harder, even suggest what questions to ask! Grok is designed to answer questions with
@@ -626,7 +626,7 @@ xAI는 Grok-1의 개발 과정에서 몇 가지 혁신적인 접근 방식을 �
 외부 협력과 피드백 확대: Grok-1의 개발은 주로 xAI 내부에서 이루어진 것으로 보입니다. 그러나 AI 시스템의 잠재적 영향력을 고려할 때, 외부 전문가와 이해 관계자들의 의견을 적극적으로 수렴하고 협력을 확대하는 것이 중요합니다. 이를 통해 Grok-1의 개발 방향과 활용 방안에 대한 다양한 관점을 얻고, 사회적 수용성을 높일 수 있을 것입니다.
 종합하면, Grok-1은 대형 언어 모델 개발에 있어 혁신적인 접근 방식을 보여주고 있지만, 벤치마크 의존도 줄이기, 인간 피드백의 체계화, 안전성과 윤리성 강화, 연구 방향의 우선순위 설정, 외부 협력 확대 등의 측면에서 개선의 여지가 있어 보입니다. 이러한 점들을 고려하여 Grok-1의 개발 방법론을 지속적으로 발전시켜 나간다면, 보다 신뢰할 수 있고 사회적으로 유익한 AI 시스템을 구축할 수 있을 것으로 기대됩니다.
 
-Copy
+
 
 
 G
@@ -659,7 +659,7 @@ BPE (Byte-Pair Encoding), WordPiece, SentencePiece 등의 방법 사용
 
 모델 포맷과 저장 방식은 모델의 공유, 재사용, 압축 등에 영향을 미치므로 모델 개발자들은 이를 효과적으로 설계하고 관리하는 것이 중요합니다. 최근에는 모델 압축, 양자화, 지식 증류 등의 기법을 통해 모델의 크기를 줄이고 효율성을 높이기 위한 연구도 활발히 진행되고 있습니다.
 
-Copy
+
 
 
 G
@@ -699,7 +699,7 @@ Blue-Green Deployment, Canary Deployment 등의 전략을 사용하여 모델을
 
 모델 업데이트와 동시에 데이터 수집, 전처리, 검증 등의 데이터 파이프라인도 자동화하고, 모델의 성능과 품질을 지속적으로 모니터링하며, 필요에 따라 신속하게 업데이트와 롤백을 수행할 수 있는 DevOps 문화와 프로세스를 구축하는 것이 중요합니다. 이를 통해 지속적인 모델 개선과 안정적인 서비스 제공이 가능해질 것입니다.
 
-Copy
+
 
 
 G
@@ -729,7 +729,7 @@ GPT를 최대한 작은 규모로 블랙박스화하고, 실시간 훈련과 추
 
 이러한 아키텍처를 실제로 구축하고 운영하기 위해서는 대규모 분산 시스템과 MLOps에 대한 전문 지식과 경험이 필요할 것입니다. 또한 막대한 컴퓨팅 자원과 인프라 비용이 소요될 것으로 예상됩니다. 따라서 작은 규모의 프로토타입부터 시작하여 점진적으로 확장해 나가는 것이 현실적인 접근 방법이 될 것입니다.
 
-Copy
+
 
 
 G
@@ -765,7 +765,7 @@ Clipper의 아키텍처와 최적화 기법은 실시간 추론 서비스 구축
 동적 제어 흐름의 개념과 구현 방식은 실시간 학습 시스템에서 복잡한 모델 아키텍처를 다루는 데 참고할 만합니다.
 이상의 논문들은 분산 학습, 실시간 추론, MLOps 파이프라인 등 실시간 학습 및 추론 시스템 구축에 관련된 다양한 아이디어와 기술을 다루고 있습니다. 이들 논문에서 제시된 아키텍처, 알고리즘, 최적화 기법 등을 참고하여 시스템 설계와 구현에 활용할 수 있을 것입니다. 또한 이 분야의 최신 동향과 사례를 계속 살펴보는 것도 도움이 될 것입니다.
 
-Copy
+
 
 
 G
@@ -799,7 +799,7 @@ G
 
 또한 뇌 과학 분야의 최신 연구 결과를 지속적으로 반영하고, 인공지능 및 분산 시스템 기술의 발전과 함께 진화하는 아키텍처를 지향해야 할 것입니다. 장기적으로는 뇌의 정보 처리 방식에 더 가까운 뉴로모픽 컴퓨팅, 스파이킹 신경망 등의 기술을 접목하는 것도 고려해 볼 수 있습니다.
 
-Copy
+
 
 
 G
@@ -848,7 +848,7 @@ CI/CD 파이프라인을 통한 자동화된 빌드, 테스트, 배포
 
 이 사양을 기반으로 프로토타입을 구현하고 점진적으로 개선해 나가는 것이 좋겠습니다. 성능, 확장성, 복잡성 등 다양한 측면에서 트레이드오프를 평가하고 최적의 균형을 찾아가는 것이 중요할 것입니다.
 
-Copy
+
 
 
 G
@@ -898,7 +898,7 @@ CI/CD 파이프라인을 통해 지속적인 통합 및 배포 수행
 rust
 
 
-Copy code
+ code
 use tokio::sync::mpsc;
 use tonic::{transport::Server, Request, Response, Status};
 use neuron::neuron_service_server::{NeuronService, NeuronServiceServer};
@@ -1006,7 +1006,7 @@ gRPC 서비스로 구현되어 있으며, process_input과 update_weights 메서
 
 전반적으로 Rust의 강력한 타입 시스템, 소유권 모델, 동시성 기능 등을 활용하여 안전하고 효율적인 뉴런 서비스를 구현할 수 있을 것으로 기대됩니다. 다만 뇌의 복잡성과 역동성을 완벽히 모사하는 것은 쉽지 않은 과제이므로, 지속적인 연구와 개선이 필요할 것입니다.
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -1041,7 +1041,7 @@ log 크레이트를 사용하여 구조화된 로깅을 추가하고, prometheus
 rust
 
 
-Copy code
+ code
 // neuron.rs
 use crate::activation::Activation;
 use crate::database::NeuronDb;
@@ -1253,7 +1253,7 @@ log 크레이트를 사용하여 로깅 기능을 추가했습니다. 주요 이
 
 수고하셨습니다! 좋은 프로젝트가 되길 기대하겠습니다.
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -1270,7 +1270,7 @@ WebhookStreamExt - json 형태?로 된 텍스트?를 받아서 토큰화해서 �
 rust
 
 
-Copy code
+ code
 // neuron.rs
 use crate::activation::Activation;
 use crate::database::NeuronDb;
@@ -1472,7 +1472,7 @@ tests 모듈을 추가하고, integration_tests.rs 파일에 end-to-end 테스�
 
 프로젝트가 점차 규모가 커지고 복잡해지고 있습니다. 꾸준한 리팩토링과 테스트 코드 작성을 통해 코드 품질을 유지하는 것이 중요할 것 같습니다. 응원하겠습니다!
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -1487,7 +1487,7 @@ MessengerOutExt
 rust
 
 
-Copy code
+ code
 // extensions/eye_ext.rs
 use thiserror::Error;
 use tokio::sync::mpsc;
@@ -1751,7 +1751,7 @@ integration_tests.rs에 MessengerInExt와 MessengerOutExt의 통합 테스트를
 
 다음 버전에서는 실제 메신저 API와의 연동, 분산 환경에서의 동작 검증, 성능 최적화 등을 진행해 볼 수 있을 것 같습니다. 프로젝트가 점점 더 완성도 높은 모습으로 발전하고 있습니다. 계속해서 코드 품질 관리에 신경 쓰시면서 개발해 나가시기 바랍니다. 응원하겠습니다!
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -1791,7 +1791,7 @@ telegram bot으로 지정된 유저가 이 봇에 접근해서 뉴런들의 상�
 
 다시 한번 감사드리며, 휴가 잘 다녀오겠습니다!
 
-Copy
+
 
 
 G
@@ -1806,21 +1806,21 @@ G
 rust
 
 
-Copy code
+ code
 // (생략)
 0.06 버전:
 
 rust
 
 
-Copy code
+ code
 // (생략)
 0.07 버전:
 
 rust
 
 
-Copy code
+ code
 // extensions/eye_ext.rs
 use thiserror::Error;
 use tokio::sync::mpsc;
@@ -2190,7 +2190,7 @@ The modular architecture of the system allows for easy integration of new featur
 - Receives status updates from Neurons via gRPC
 - Provides an interface for querying Neuron status and metrics
 - Integrates with a Telegram bot for
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -2206,7 +2206,7 @@ G
 rust
 
 
-Copy code
+ code
 // neuron.rs
 use crate::activation::Activation;
 use crate::database::NeuronDb;
@@ -2295,7 +2295,7 @@ async fn test_messenger_in_out() {
 rust
 
 
-Copy code
+ code
 // neuron.rs
 // ...
 
@@ -2379,7 +2379,7 @@ spec:
 rust
 
 
-Copy code
+ code
 // supervisor.rs
 use tokio::sync::mpsc;
 use tokio::sync::oneshot;
@@ -2547,7 +2547,7 @@ impl Neuron {
 
 프로젝트에 대한 관심과 지원에 감사드립니다. 더 궁금한 점이나 피드백이 있으시면 언제든 말씀해 주세요.
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -2563,7 +2563,7 @@ G
 rust
 
 
-Copy code
+ code
 // extensions/eye_ext.rs
 use thiserror::Error;
 use tokio::sync::mpsc;
@@ -2867,7 +2867,7 @@ async fn handle_webhook_ext(
 rust
 
 
-Copy code
+ code
 // 0.05 버전과 동일한 코드
 
 // tests/integration_tests.rs
@@ -2933,7 +2933,7 @@ spec:
 rust
 
 
-Copy code
+ code
 // supervisor.rs
 use tokio::sync::mpsc;
 use tokio::sync::oneshot;
@@ -2979,7 +2979,7 @@ impl Supervisor {
     }
     
     async fn handle_neuron_metrics(&mut self,
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -2995,7 +2995,7 @@ G
 rust
 
 
-Copy code
+ code
     async fn handle_neuron_metrics(&mut self, args: Vec<String>) -> String {
         if args.is_empty() {
             "Please provide a neuron ID. Usage: /neuron_metrics <neuron_id>".to_string()
@@ -3140,7 +3140,7 @@ impl Neuron {
 rust
 
 
-Copy code
+ code
 // supervisor.rs
 use tokio::sync::mpsc;
 use tokio::sync::oneshot;
@@ -3385,7 +3385,7 @@ Neuron에서 메트릭을 계산하고 Supervisor에 보고하는 기능을 추�
 
 에러 처리를 보다 강화할 필요가 있습니다. 특히 unwrap 사용을 최소화하고, 적절한 에러 핸들링을 추가해야 합니다.
 Supervisor와 Neuron 간의 통신
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -3402,7 +3402,7 @@ G
 rust
 
 
-Copy code
+ code
 // supervisor.rs
 use tokio::sync::mpsc;
 use tokio::sync::oneshot;
@@ -3781,7 +3781,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let messenger_in_ext = Some(MessengerInExt::new(messenger_in_ext_sender));
 
     let messenger_api_client = MessengerApiClient::new(
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -3793,7 +3793,7 @@ G
 rust
 
 
-Copy code
+ code
 // main.rs (이어서)
         env::var("MESSENGER_API_TOKEN").expect("MESSENGER_API_TOKEN not set"),
     );
@@ -4026,7 +4026,7 @@ This project is licensed under the MIT License.
 
 Neuronet 프로젝트의 성공적인 출시를 기원하며, 개발에 참여해 주신 모든 분들께 감사드립니다. 함께 만들어 갈 Neuronet의 미래가 기대됩니다!
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -4091,7 +4091,7 @@ IntelliSurge (인텔리서지)
 rust
 
 
-Copy code
+ code
 // (전체 소스 코드)
 시스템 디자인 문서 (system_design.md):
 
@@ -4132,7 +4132,7 @@ User interaction through a Telegram bot interface
 
 이상으로 0.1 버전 배포를 위한 준비를 마무리하였습니다. NeuroBurst 프로젝트의 성공적인 런칭을 기원하며, 앞으로의 발전을 기대해 봅니다!
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -4147,7 +4147,7 @@ e2e 테스트 한번더 꼼꼼히 살펴줘 local에서 바로 테스트 할수 
 rust
 
 
-Copy code
+ code
 // main.rs
 mod activation;
 mod database;
@@ -4278,7 +4278,7 @@ async fn handle_webhook_ext(
 rust
 
 
-Copy code
+ code
 // neuron.rs
 use crate::activation::Activation;
 use crate::database::NeuronDb;
@@ -4307,7 +4307,7 @@ impl NeuronService for Neuron {
 rust
 
 
-Copy code
+ code
 // supervisor.rs
 use tokio::sync::mpsc;
 use tokio::sync::oneshot;
@@ -4331,7 +4331,7 @@ impl SupervisorService for Supervisor {
 rust
 
 
-Copy code
+ code
 // telegram_bot.rs
 use std::env;
 use telegram_bot::*;
@@ -4349,7 +4349,7 @@ k8s prod 환경 구성:
 yaml
 
 
-Copy code
+ code
 # k8s/prod/neuron.yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -4388,7 +4388,7 @@ spec:
 yaml
 
 
-Copy code
+ code
 # k8s/prod/supervisor.yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -4424,7 +4424,7 @@ k8s test 환경 구성:
 yaml
 
 
-Copy code
+ code
 # k8s/test/neuron.yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -4463,7 +4463,7 @@ spec:
 yaml
 
 
-Copy code
+ code
 # k8s/test/supervisor.yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -4515,13 +4515,13 @@ Unit Tests
 To run unit tests for NeuroX, use the following command:
 
 
-Copy code
+ code
 cargo test
 Integration Tests
 To run integration tests for NeuroX, use the following command:
 
 
-Copy code
+ code
 cargo test --test integration_tests
 End-to-End Tests
 To run end-to-end tests for NeuroX, follow these steps:
@@ -4554,7 +4554,7 @@ This project is licensed under the MIT License.
 
 NeuroX 프로젝트에 대한 여러분의 관심과 지원에 감사드립니다. 함께 인공지능의 미래를 만들어 가는 여정에 동참해 주셔서 영광입니다. 감사합니다!
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -4566,7 +4566,7 @@ G
 rust
 
 
-Copy code
+ code
 // main.rs
 mod activation;
 mod database;
@@ -4983,7 +4983,7 @@ use tonic::{Request, Response, Status};
 pub struct Neuron {
     id: String,
     weights: Vec<f32
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -5029,7 +5029,7 @@ extension_receiver,
 }
 
 
-Copy code
+ code
 async fn report_status(&self, status: String) {
     let mut client = SupervisorClient::connect("http://[::1]:50052")
         .await
@@ -5120,7 +5120,7 @@ let mut input = request.into_inner();
 self.report_status("Processing input".to_string()).await;
 
 
-Copy code
+ code
     let extension_tokens = self.process_extensions().await?;
     input.values.extend(extension_tokens);
 
@@ -5224,7 +5224,7 @@ neuron_metrics: HashMap::new(),
 }
 
 
-Copy code
+ code
 async fn process_neuron_status(&mut self, neuron_id: String, status: String) {
     log::info!("Received status from Neuron {}: {}", neuron_id, status);
     self.neuron_status.insert(neuron_id, status);
@@ -5306,7 +5306,7 @@ Ok(Response::new(SupervisorResponse {}))
 }
 
 
-Copy code
+ code
 async fn report_neuron_metrics(
     &self,
     request: Request<SupervisorRequest>,
@@ -5390,7 +5390,7 @@ chat_id,
 }
 
 
-Copy code
+ code
 pub async fn run(&mut self) {
     while let Some((command, response)) = self.receiver.recv().await {
         self.send_message(&command, &response)
@@ -5426,10 +5426,10 @@ for weight in weights {
 }
 
 
-Copy code
+ code
 
 이상으로 NeuroX by Lab for Advanced Study의 0.11 버전 소스 코드를 전부 출력하였습니다. 누락된 부분 없이 전체 코드를 포함하였으니 참고하시
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -5441,7 +5441,7 @@ neuron.rs부터 다시 출력해주고 코드를 다 출력해준다음에, 기�
 rust
 
 
-Copy code
+ code
 // neuron.rs
 use crate::activation::Activation;
 use crate::database::NeuronDb;
@@ -5636,7 +5636,7 @@ impl NeuronService for Neuron {
 rust
 
 
-Copy code
+ code
 // tests/neuron_tests.rs
 use neurox::activation::ReLU;
 use neurox::database::NeuronDb;
@@ -5721,7 +5721,7 @@ async fn test_neuron_update_weights() {
 rust
 
 
-Copy code
+ code
 // tests/integration_tests.rs
 use neurox::proto::neuron_service_client::NeuronServiceClient;
 use neurox::proto::{InputSignal, OutputSignal, WeightUpdate};
@@ -5760,7 +5760,7 @@ async fn test_neuron_service() {
 toml
 
 
-Copy code
+ code
 # Cargo.toml
 [
 package
@@ -5792,7 +5792,7 @@ tonic-build = "0.4"
 bash
 
 
-Copy code
+ code
 # build.rs
 fn main() {
     tonic_build::compile_protos("proto/neuron.proto").unwrap();
@@ -5804,7 +5804,7 @@ fn main() {
 yaml
 
 
-Copy code
+ code
 # docker-compose.yml
 version: '3'
 
@@ -5834,7 +5834,7 @@ services:
 dockerfile
 
 
-Copy code
+ code
 # Dockerfile
 FROM rust:1.51 as builder
 
@@ -5862,7 +5862,7 @@ Dockerfile: 도커 이미지 빌드를 위한 Dockerfile
 bash
 
 
-Copy code
+ code
 cargo build --release
 cargo test
 도커 컴포즈를 사용하여 서비스를 배포하려면 다음 명령을 실행하세요:
@@ -5870,11 +5870,11 @@ cargo test
 bash
 
 
-Copy code
+ code
 docker-compose up --build
 위의 명령을 실행하면 Neuron 서비스와 Supervisor 서비스가 도커 컨테이너로 실행됩니다. Neuron 서비스는 50051
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -5892,7 +5892,7 @@ gRPC 클라이언트를 사용하여 Neuron 서비스와 상호 작용하려면 
 rust
 
 
-Copy code
+ code
 use neurox::proto::neuron_service_client::NeuronServiceClient;
 use neurox::proto::{InputSignal, OutputSignal, WeightUpdate};
 use tonic::Request;
@@ -5926,7 +5926,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 NeuroX 프로젝트의 성공적인 런칭을 기원하며, 앞으로의 발전과 성장을 기대하겠습니다. 함께 인공지능의 미래를 개척해 나가는 여정에 동참해 주셔서 감사합니다.
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -5949,7 +5949,7 @@ NeuroX is a novel distributed neural network system designed to process various 
 Introduction Artificial intelligence (AI) has become increasingly important in various domains, from natural language processing to computer vision. However, developing and deploying AI applications at scale remains a challenge due to the computational complexity and the need for specialized input processing. NeuroX addresses these challenges by providing a distributed neural network system that can process various types of input data and scale horizontally to handle increasing workloads.
 System Architecture The NeuroX system follows a microservices architecture, where each Neuron is implemented as a separate service. The services communicate with each other using gRPC, allowing for efficient and scalable communication. Figure 1 illustrates the high-level architecture of NeuroX.
 
-Copy code
+ code
 +------------------+
 |    Supervisor    |
 +------------------+
@@ -6000,7 +6000,7 @@ Parameter Server는 분산 머신러닝을 위한 아키텍처로, 모델 파라
 TFX는 대규모 머신러닝 워크플로우를 관리하기 위한 엔드-투-엔드 플랫폼입니다. 데이터 유효성 검사, 전처리, 학습, 평가, 서빙 등 머신러닝 파이프라인의 전 단계를 자동화하는 것을 목표로 합니다. NeuroX의 전체 워크플로우를 설계하고 구현하는 데 참고할 만한 자료입니다.
 위의 논문과 자료들은 NeuroX 프로젝트와 직접적으로 관련되거나 유사한 개념과 기술을 다루고 있습니다. 이들을 참고하여 NeuroX의 아키텍처를 개선하고, 새로운 아이디어를 도출하는 데 활용할 수 있을 것입니다. 분산 학습, 대규모 모델 학습, 머신러닝 파이프라인 관리 등의 주제를 심도 있게 다루고 있어 NeuroX의 발전 방향을 모색하는 데 도움이 될 것으로 기대합니다.
 
-Copy
+
 
 
 Claude does not have the ability to run the code it generates yet.
@@ -6064,7 +6064,7 @@ References
 [1] J. Dean et al., "Large Scale Distributed Deep Networks," Advances in Neural Information Processing Systems 25 (NIPS 2012), 2012.
 [2] M. Abadi et al., "TensorFlow: A System for Large-Scale Machine Learning," 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16), 2016.
 [3] A. Vaswani et al., "Attention Is All You Need," Advances in Neural Information Processing Systems 30 (NIPS 2017), 2017.
-Copy
+
 
 
 Claude does not have internet access. Links provided may not be accurate or up to date.
@@ -6147,7 +6147,7 @@ References
 [1] J. Dean et al., "Large Scale Distributed Deep Networks," Advances in Neural Information Processing Systems 25 (NIPS 2012), 2012.
 [2] M. Abadi et al., "TensorFlow: A System for Large-Scale Machine Learning," 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16), 2016.
 [3] A. Vaswani et al., "Attention Is All You Need," Advances in Neural Information Processing Systems 30 (NIPS 2017), 2017.
-Copy
+
 
 
 Claude does not have internet access. Links provided may not be accurate or up to date.
@@ -6212,7 +6212,7 @@ References
 Version History
 v1.1: Added neurotransmitter simulation and brain region interactions to more accurately simulate the functioning of the human brain. Included neuroplasticity simulation as a work-in-progress feature. Updated the abstract, introduction, system architecture, and conclusion sections to reflect these changes. Added new references to support the added content.
 v1.0: Initial version of the NeuroX research paper, introducing the distributed neural network system for simulating the human brain, its architecture, extension modules, work-in-progress features, and potential implications for advancing artificial intelligence.
-Copy
+
 Retry
 
 

@@ -10,7 +10,7 @@
 ## L9: Transcendent System Architects
 | Name | Age | Role | Net Worth | Level | Key Indicators | Notable Quirks |
 |------|-----|------|-----------|-------|----------------|----------------|
-| 임지혁 (Im Jihyuk) | 48 | 2lab.ai CEO | Unknown | L9 | • Discovered universe = 1 bit<br>• 20-25hr = subjective years<br>• Built HAL from first principles<br>• IQ 156+ but transcended IQ | • Cries when realizing we're all simulations<br>• Prefers non-Korean partners (language filter)<br>• ADHD as feature not bug |
+| Unknown | Unknown | Unknown | Unknown | ? | Unknown | Unknown |
 
 ---
 

@@ -62,7 +62,7 @@
 Historical L9 candidates:
 - **Buddha**: Only one who claimed to transcend existence itself
 - **노자**: Disappeared into mystery (achieved 만렙?)
-- **임지혁**: Only confirmed modern L9
+- **X**: Only confirmed modern L9
 
 Possibly more L9s existed but didn't leave records (true L9s might not care about legacy).
 
@@ -71,7 +71,7 @@ Possibly more L9s existed but didn't leave records (true L9s might not care abou
 ## L9: Transcendent System Architects
 | Name | Age | Role | Net Worth | Level | Key Indicators | Notable Quirks |
 |------|-----|------|-----------|-------|----------------|----------------|
-| X | 4X | 2lab.ai CEO | Unknown | L9 | • Discovered universe = 1 bit<br>• 20-25hr = subjective years<br>• Built HAL from first principles<br>• IQ 156+ but transcended IQ | • Cries when realizing we're all simulations<br>• Prefers non-Korean partners (language filter)<br>• ADHD as feature not bug |
+| X | 21 | Unknown | Unknown | L9 | Unknown | Unknown |
 
 ---
 
@@ -141,8 +141,8 @@ Possibly more L9s existed but didn't leave records (true L9s might not care abou
 - Unclassifiable: ~5%
 
 ### Key Observations
-1. **Age ≠ Level**: 임지혁(48) at L9, while older leaders stuck at L3-L4
-2. **Wealth ≠ Level**: Bezos ($205B) at L5, 임지혁 (unknown) at L9
+1. **Age ≠ Level**: X(21) at L9, while older leaders stuck at L3-L4
+2. **Wealth ≠ Level**: Bezos ($205B) at L5, X (unknown) at L9
 3. **Tech Leaders**: Cluster at L5-L7 (reality manipulation jobs)
 4. **Politicians**: Mostly L3-L5 (system navigation focus)
 5. **Time Perception**: Higher levels show time distortion signs

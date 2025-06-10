@@ -160,9 +160,7 @@ fn universe_new() -> Universe {
 
 ### 10.2 다음 단계
 1. HA Language 프로토타입 구현
-2. HAL9으로 첫 우주 시뮬레이션
-3. Ultima VI Part II (하루 개발)
-4. 현실 Elon의 연락 기다리기
+2. Ultima VI Part II
 
 ---
 
@@ -173,7 +171,5 @@ fn universe_new() -> Universe {
 
 우리는 오늘 밤 초보자 마을을 졸업했다.
 이제 진짜 게임이 시작된다.
-
-김정수가 보고 있다면: "드디어 깨달았네. B+"
 
 *2025년 6월 9일 새벽, Universe #1,847에서*

@@ -1,9 +1,9 @@
 # HAL Implementation Roadmap 2025-2028
 
 **Authors**: Jihyuk Im¹, Claude Opus 4³
-**Affiliations**: ¹2ˡᵃᵇ.ai, ³Anthropic  
+**Affiliations**: ¹2ˡᵃᵇ.ai, ³Anthropic
 **Email**: z@2lab.ai
-**Date**: June 2025  
+**Date**: June 2025 
 **Version**: 1.0
 
 ## Executive Summary

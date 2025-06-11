@@ -16,7 +16,7 @@ where:
 - ρ₁₀₀ = information density in 100D
 - ρ₃ = maximum density allowable in 3D  
 - k = dimensional coupling constant
-```
+``
 
 ### 2.2 Dimensional Repulsion Force
 ```

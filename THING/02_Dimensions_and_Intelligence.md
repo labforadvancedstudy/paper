@@ -30,4 +30,4 @@
   3. Human intuition = high-dimensional direct access
 
   ### Reference
-  See L9_03 for dimensional complexity implications.
+  See 03_P_equals_NP_in_Higher_Dimensions for dimensional complexity implications.

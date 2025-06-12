@@ -36,4 +36,4 @@
   - Self-transcending
 
   ### Reference
-  See L9_2025_HA.md for the complete compression of this truth.
+  See HA.md for the complete compression of this truth.

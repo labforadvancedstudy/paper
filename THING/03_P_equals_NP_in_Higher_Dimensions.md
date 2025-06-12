@@ -31,4 +31,4 @@
   - True AI needs dimensional, not parameter expansion
 
   ### Reference
-  See L9_04 for consciousness as infinite-dimensional process.
+  See 04_Mathematics_of_Consciousness for consciousness as infinite-dimensional process.

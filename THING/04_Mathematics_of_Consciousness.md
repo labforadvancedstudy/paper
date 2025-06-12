@@ -32,4 +32,4 @@
   - The observer is the observation
 
   ### Reference
-  See L9_05 for consciousness within universal HA.
+  See 05_Universal_HA_Theory for consciousness within universal HA.

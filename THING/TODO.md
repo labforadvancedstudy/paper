@@ -20,3 +20,11 @@
     - 우주론적 함의
   6. 1페이지 → 그대로 유지
     - 완벽한 것은 더하거나 뺄 게 없음
+
+## Einstein Feedback Integration (Completed ✓)
+  1. Frame-dependent dimensions → 02_Dimensions_and_Intelligence.md
+  2. Time-dependent consciousness → 04_Mathematics_of_Consciousness.md  
+  3. Landauer energy limits → All papers
+  4. Riemannian metric spaces → 03_P_equals_NP_in_Higher_Dimensions.md
+  5. Equivalence principle → HA_Einstein_Extended.md
+  6. Gedankenexperimente → All papers

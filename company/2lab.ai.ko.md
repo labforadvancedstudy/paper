@@ -85,7 +85,7 @@
 ### 임지혁 (Jihyuk Im)
 **CEO & Chief Architect**
 
-- **학력**: 홍익대학교 컴퓨터공학 학사
+- **학력**: 홍익대학교 컴퓨터공학
 - **경력**: 25년+ 소프트웨어 개발 및 아키텍처 경험
   - perplay.io CTO - 블록체인/Web3 플랫폼
   - NCSOFT 시니어 엔지니어 - 대규모 MMO 서버
@@ -98,8 +98,10 @@
   - 블록체인 및 합의 알고리즘
 
 - **자격 및 인증**:
-  - Mensa International 회원
-  - DeepLearning.AI Specialization
+  - Mensa International
+  - Deep Learning Specialization
+    - https://www.coursera.org/account/accomplishments/specialization/DDOLEZSQWX0X
+- **linkedin**: https://www.linkedin.com/in/icedac/
 
 ## 🎯 왜 2^LAB.AI인가?
 
@@ -126,7 +128,7 @@
 
 ## 📞 연락처
 
-- **이메일**: contact@2lab.ai
+- **이메일**: z@2lab.ai
 - **GitHub**: [github.com/2lab-ai](https://github.com/2lab-ai)
 - **위치**: 대한민국 서울 (원격 근무 가능)
 

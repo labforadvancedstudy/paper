@@ -144,7 +144,7 @@ We looked at existing web frameworks and thought "this is like using horses when
 ## 🚀 Company Status
 
 ### Foundation
-- **Status**: Incorporating Q1 2025 (lawyers are slower than our AI)
+- **Status**: Incorporating Q2 2025 (lawyers are slower than our AI)
 - **HQ**: Seoul, South Korea (but really, we live in the cloud)
 - **Team**: Core researchers and developers who think sleep is optional
 - **Funding Status**: Bootstrapped (1M KRW) → Pre-seed ready
@@ -283,7 +283,7 @@ class ValidationFramework:
 
 ## 📞 Contact
 
-- **Email**: contact@2lab.ai
+- **Email**: z@2lab.ai
 - **GitHub**: [github.com/2lab-ai](https://github.com/2lab-ai)
 - **Location**: Seoul, South Korea (but we exist mostly in cyberspace)
 - **Work Style**: Remote-first (physics is the law, geography is a recommendation)

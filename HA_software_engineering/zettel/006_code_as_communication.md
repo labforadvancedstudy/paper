@@ -66,9 +66,9 @@ Great code reads like prose:
 Programming is writing for humans.
 
 ## Connections
-→ [[018_clean_code]]
-→ [[019_naming_conventions]]
-→ [[020_documentation_strategy]]
+→ [[054_code_as_language]] (philosophical depth)
+→ [[038_refactoring]]
+→ [[023_testing]]
 ← [[005_emergent_architecture]]
 
 ---

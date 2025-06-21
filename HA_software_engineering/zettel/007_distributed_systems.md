@@ -60,9 +60,9 @@ Distributed systems:
 Like consciousness - many parts, one system.
 
 ## Connections
-→ [[021_consensus_algorithms]]
-→ [[022_eventual_consistency]]
-→ [[023_distributed_tracing]]
+→ [[040_distributed_system]] (metaphorical view)
+→ [[041_concurrency]]
+→ [[047_scalability]]
 ← [[006_code_as_communication]]
 
 ---

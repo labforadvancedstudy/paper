@@ -63,9 +63,9 @@ Rewrites often fail. Evolution usually wins.
 Software Darwinism is real.
 
 ## Connections
-→ [[024_legacy_modernization]]
-→ [[025_continuous_delivery]]
-→ [[026_software_archaeology]]
+→ [[063_software_evolution]] (philosophical/Korean perspective)
+→ [[038_refactoring]]
+→ [[050_technical_debt]]
 ← [[007_distributed_systems]]
 
 ---

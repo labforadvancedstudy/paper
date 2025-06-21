@@ -64,9 +64,9 @@ Know when to:
 Wisdom comes from scars.
 
 ## Connections
-→ [[015_microservices_patterns]]
-→ [[016_system_design]]
-→ [[017_scalability_patterns]]
+→ [[022_architecture]] (general principles)
+→ [[044_microservice]]
+→ [[047_scalability]]
 ← [[004_testing_philosophy]]
 
 ---

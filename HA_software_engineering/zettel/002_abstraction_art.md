@@ -64,10 +64,11 @@ All abstractions leak:
 Good engineers know when to break abstraction.
 
 ## Connections
-→ [[006_design_patterns]]
-→ [[007_api_design]]
-→ [[008_layered_architecture]]
+→ [[021_design_pattern]]
+→ [[031_interface]]
+→ [[034_encapsulation]]
 ← [[001_software_essence]]
+← [[014_abstraction]] (philosophical perspective)
 
 ---
 Level: L2

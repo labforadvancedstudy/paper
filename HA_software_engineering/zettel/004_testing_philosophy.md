@@ -60,9 +60,9 @@ Good tests enable change.
 Bad tests prevent it.
 
 ## Connections
-→ [[012_tdd_patterns]]
-→ [[013_test_automation]]
-→ [[014_continuous_integration]]
+→ [[023_testing]] (abstract perspective)
+→ [[024_debugging]]
+→ [[011_bug]]
 ← [[003_technical_debt]]
 
 ---

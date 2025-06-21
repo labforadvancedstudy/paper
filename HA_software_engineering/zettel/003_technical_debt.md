@@ -53,9 +53,9 @@ Too much debt prevents progress.
 Wisdom knows the balance.
 
 ## Connections
-→ [[009_refactoring_patterns]]
-→ [[010_code_smells]]
-→ [[011_legacy_systems]]
+→ [[038_refactoring]]
+→ [[050_technical_debt]] (humorous take)
+→ [[051_complexity]]
 ← [[002_abstraction_art]]
 
 ---

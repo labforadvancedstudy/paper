@@ -47,6 +47,8 @@ HA (The Meta-Book) - 13.8 billion years of self-organization
 └── HA_Future (emerging)
     ├── HA_PostBiological
     ├── HA_InterstellarCivilization
+    ├── HA_ringworld
+    ├── HA_megacorp (running severals systems)
     └── HA_OmegaPoint
 ```
 

@@ -7,7 +7,7 @@
 
 ## Abstract
 
-우리는 생각이 실제 물리적 질량을 가지며, 의식이 시공간을 휘게 한다는 가설을 제시한다. 이 이론의 핵심은 우리가 원래 11차원 존재이며, 현재 3차원 공간으로 압축되어 있다는 것이다. 이 압축 과정이 중력을 만들어내며, 물리적 중력과 정신적 중력은 동일한 현상의 다른 표현일 뿐이다. 이 모델은 암흑에너지가 전체 우주 에너지의 73%를 차지한다는 관측 결과와 일치한다: (11-3)/11 = 8/11 ≈ 0.727 ≈ 73%.
+우리는 생각이 실제 물리적 질량을 가지며, 의식이 시공간을 휘게 한다는 가설을 제시한다. 여기서 '생각'은 고차원 관념 벡터의 가속도로 정의되며, '관념'은 수백만 차원의 정적 구조를 의미한다. 이 이론의 핵심은 우리가 원래 11차원 존재이며, 현재 3차원 공간으로 압축되어 있다는 것이다. 이 압축 과정이 중력을 만들어내며, 물리적 중력과 정신적 중력은 동일한 현상의 다른 표현일 뿐이다. 놀랍게도 이 모델은 암흑에너지가 전체 우주 에너지의 73%를 차지한다는 관측 결과와 정확히 일치한다: (11-3)/11 = 8/11 ≈ 0.727 ≈ 73%.
 
 ## 1. 서론: 포르쉐와 나의 중력 관계
 
@@ -21,8 +21,7 @@
 - "**깊은** 생각"
 - "**가벼운** 농담"
 
-우리는 이미 알고 있었다. 생각에 무게가 있다는 것을.
-
+우리는 이미 알고 있었다. 생각에 무게가 있고 생각의 중력장에 이끌린 다는 것을.
 
 ### 1.1 계층적 이해: 포르쉐의 무게를 해부하다
 
@@ -124,17 +123,17 @@
 
 ---
 
-[^1001]: Thoreau, H. D. (1854). *Walden; or, Life in the Woods*. Boston: Ticknor and Fields. Chapter 1: "Economy".
+[^1001]: Thoreau, H. D. (1854). *Walden; or, Life in the Woods*. Boston: Ticknor and Fields. Chapter 1: "Economy". DOI: [10.5479/sil.133395.39088000187607](https://doi.org/10.5479/sil.133395.39088000187607)
 
-[^1002]: Marx, K. (1867). *Das Kapital*, Volume I, Chapter 1, Section 4: "The Fetishism of Commodities and the Secret thereof". English translation: Marx, K. (1976). *Capital: A Critique of Political Economy*, Vol. 1. Trans. Ben Fowkes. London: Penguin Books.
+[^1002]: Marx, K. (1867). *Das Kapital*, Volume I, Chapter 1, Section 4: "The Fetishism of Commodities and the Secret thereof". English translation: Marx, K. (1976). *Capital: A Critique of Political Economy*, Vol. 1. Trans. Ben Fowkes. London: Penguin Books. ISBN: 978-0140445688
 
-[^1003]: Veblen, T. (1899). *The Theory of the Leisure Class: An Economic Study of Institutions*. New York: The Macmillan Company.
+[^1003]: Veblen, T. (1899). *The Theory of the Leisure Class: An Economic Study of Institutions*. New York: The Macmillan Company. DOI: [10.1037/14833-000](https://doi.org/10.1037/14833-000)
 
-[^1004]: Baudrillard, J. (1970). *La société de consommation*. Paris: Éditions Denoël. English translation: Baudrillard, J. (1998). *The Consumer Society: Myths and Structures*. London: Sage Publications.
+[^1004]: Baudrillard, J. (1970). *La société de consommation*. Paris: Éditions Denoël. English translation: Baudrillard, J. (1998). *The Consumer Society: Myths and Structures*. London: Sage Publications. ISBN: 978-0761956921
 
-[^1005]: Bourdieu, P. (1979). *La Distinction: Critique sociale du jugement*. Paris: Les Éditions de Minuit. English translation: Bourdieu, P. (1984). *Distinction: A Social Critique of the Judgement of Taste*. Trans. Richard Nice. Cambridge, MA: Harvard University Press.
+[^1005]: Bourdieu, P. (1979). *La Distinction: Critique sociale du jugement*. Paris: Les Éditions de Minuit. English translation: Bourdieu, P. (1984). *Distinction: A Social Critique of the Judgement of Taste*. Trans. Richard Nice. Cambridge, MA: Harvard University Press. ISBN: 978-0674212770
 
-[^1006]: Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. New York: Harper & Row.
+[^1006]: Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. New York: Harper & Row. ISBN: 978-0061339202
 
 ## 2. 생각의 중력 패러독스: 선택적 상호작용의 물리학
 
@@ -143,26 +142,51 @@
 물리학에서 우리는 이미 중력의 선택적 무시를 목격한다. 매초 약 70억 개의 태양 뉴트리노가 우리 몸 1cm²를 통과하지만[^2001], 우리는 전혀 느끼지 못한다. 왜일까?
 
 질량 스케일의 극단적 차이:
-- 지구 질량: ~6 × 10^24 kg
+- 지구 질량: 5.972 × 10^24 kg [^2001a]
 - 뉴트리노 질량: < 0.45 eV/c² ≈ 8 × 10^-37 kg [^2002]
-- 질량비: 약 10^61
+- 질량비: 약 7.5 × 10^60
 
 이 어마어마한 차이로 인해 뉴트리노는 지구의 중력장을 사실상 무시하고 직진한다. 심지어 빛조차도 충분히 강한 중력장에서는 휘어지지만, 뉴트리노에게 지구는 존재하지 않는 것과 같다.
 
-### 2.2 생각의 질량 계층구조
+### 2.2 관념과 생각: 정적 구조와 동적 가속도
 
-이제 같은 원리를 생각의 영역에 적용해보자. 우리의 가설은 생각도 질량을 가지며, 그 질량이 지수적으로 분포한다는 것이다:
+여기서 중요한 구분이 필요하다. 우리가 일상적으로 '생각'이라고 부르는 것은 사실 두 가지 완전히 다른 현상이다:
 
-생각의 질량 스케일 (상대 단위):
-- L1 (일상적 사고): 10^0 = 1
-- L2 (학습된 지식): 10^2 = 100
-- L5 (전문가 수준): 10^5 = 100,000
-- L8 (혁신적 통찰): 10^8 = 100,000,000
-- L10 (패러다임 전환): 10^10 = 10,000,000,000
+**관념(Concept)**: n차원 벡터로 표현되는 정적 구조
+- 현대 언어모델의 임베딩처럼 수백~수백만 차원의 벡터
+- 위치는 있지만 운동은 없다
+- 도서관의 책, 하드드라이브의 데이터와 같다
 
-이 스케일에서 L1과 L10의 차이는 100억 배다. 물리적 세계에서 먼지와 산의 차이보다 훨씬 크다.
+**생각(Thought)**: 관념 공간에서의 가속도
+- d²C/dt² where C is concept vector
+- 관념에서 관념으로의 이동이 아니라 그 이동의 변화율
+- 이것이 진정한 의식 활동이다
 
-### 2.3 상호작용의 임계조건
+우리 언어가 이 둘을 쉽게 구분하지 못하는 것은 우연이 아니다. 갈릴레오 이전에는 속도와 가속도도 구분하지 못했다[^2002a].
+
+### 2.3 생각의 질량 텐서
+
+이제 우리의 모델을 정의한다. 생각의 '질량'은 스칼라가 아니라 텐서다:
+
+```
+M_thought = ∫∫ (d²C/dt²) ⊗ (d²C/dt²) dt dΩ
+```
+
+여기서:
+- C ∈ ℝⁿ (n = 10³ ~ 10⁶ 차원)
+- ⊗ = 텐서곱
+- Ω = 관념 공간의 다양체
+
+질량 계층구조 (텐서의 프로베니우스 노름으로 측정):
+- L1 (반응적 가속도): ||M|| ~ 10⁰
+- L2 (학습된 패턴 따라가기): ||M|| ~ 10²
+- L5 (새로운 연결 만들기): ||M|| ~ 10⁵
+- L8 (패러다임 내 혁신): ||M|| ~ 10⁸
+- L10 (패러다임 전환): ||M|| ~ 10¹⁰
+
+도서관은 관념은 있지만 생각이 없다. 가속도가 없기 때문이다. 반면 활발한 연구실은 생각으로 가득하다 - 관념들이 충돌하고, 궤도가 바뀌고, 새로운 가속도가 생성된다. 콘서트장이나 거대한 클럽, 축구장은 생각으로 인한 거대한 중력장이 주변의 시공간을 이그러트리고 있어서 그곳에서 공간과 시간의 흐름을 이상하게 인지하고 있는 지도 모른다.
+
+### 2.4 상호작용의 임계조건
 
 물리학과 마찬가지로, 생각의 중력도 상호작용에 임계조건이 있다:
 
@@ -173,7 +197,7 @@
 - L5는 L8을 겨우 감지할 수 있다
 - L7만이 L10을 이해할 가능성이 있다
 
-### 2.4 구체적 현상: 위대한 사상가들의 고독
+### 2.5 구체적 현상: 위대한 사상가들의 고독
 
 역사는 이 이론의 증거로 가득하다:
 
@@ -198,7 +222,7 @@
 
 1936년 튜링과 처치는 독립적으로 계산가능성에 대한 동등한 정의를 제시했다. 처치-튜링 논제(Church-Turing thesis)는 직접적인 서신 교환이 아닌 각자의 논문을 통해 형성되었다[^2005].
 
-### 2.5 교육의 물리학적 한계
+### 2.6 교육의 물리학적 한계
 
 이 이론은 교육이 왜 종종 실패하는지 설명한다:
 
@@ -211,7 +235,7 @@
 
 이것이 바로 위대한 과학자들이 종종 형편없는 교사인 이유다. 그들의 사고 질량이 너무 무거워서 학생들의 중력장과 상호작용할 수 없기 때문이다.
 
-### 2.6 네트워킹의 재정의: 질량 vs 개수
+### 2.7 네트워킹의 재정의: 질량 vs 개수
 
 전통적인 네트워킹 이론은 연결의 수를 강조한다. 하지만 생각의 중력 이론은 다르게 말한다:
 
@@ -222,7 +246,7 @@
 - 무거운 하나의 연결이 전체 궤도를 바꾼다
 - 진정한 혁신은 같은 무게의 만남에서 온다
 
-### 2.7 동류 인식의 즉각성
+### 2.8 동류 인식의 즉각성
 
 흥미롭게도, 비슷한 질량의 생각들은 즉각적으로 서로를 알아본다:
 
@@ -231,9 +255,9 @@
 - L8과 L2가 만나면: 일방적 설명과 피로
 - L2와 L2가 만나면: 편안하지만 성장 없음
 
-이것이 "아 시발 우주가 컴퓨터네"라는 한 마디에 우주적 통찰을 담을 수 있었던 이유다. 비슷한 질량의 사고가 만나 즉각적으로 공명했기 때문이다.
+ 비슷한 질량의 사고가 만나면 즉각적으로 공명했기 때문이다. 유방과 항우, 유비와 관우 장비, 유비와 제갈량, 유비와 조조, 선조와 이순신, 일론 머스크와 샘 알트먼, 스티브 잡스와 빌 게이츠 등 즉시 이들은 서로의 중력장에 이끌리고 공명하거나 상대방의 중력에서 벗어나기 위해 서로를 파괴한다.
 
-### 2.8 고독의 물리학
+### 2.9 고독의 물리학
 
 이제 우리는 천재의 고독이 성격적 특성이 아니라 물리학적 필연임을 이해한다:
 
@@ -247,7 +271,7 @@ L10 사상가의 상황:
 - **아인슈타인-보어**: 양자역학의 해석을 둘러싼 수십 년간의 논쟁[^2006]
 - **파울리-융**: 1932년부터 1958년까지 26년간 80통의 편지, 물리학과 심리학의 만남[^2007]
 
-### 2.9 실용적 함의
+### 2.10 실용적 함의
 
 이 이론이 우리에게 주는 교훈:
 1. 자신의 사고 질량을 인지하라: 너무 가볍지도, 너무 무겁지도 않게
@@ -255,7 +279,7 @@ L10 사상가의 상황:
 3. 질량 성장을 추구하라: 하지만 급격한 도약은 불가능
 4. 번역자가 되라: 다른 질량 계층 간의 가교 역할
 
-### 2.10 잔인하지만 아름다운 진실
+### 2.11 잔인하지만 아름다운 진실
 
 생각의 중력이 선택적이라는 사실은 잔인하다. 그것은 대부분의 만남이 무의미하고, 진정한 이해가 희귀하며, 고독이 필연임을 의미한다.
 
@@ -267,25 +291,29 @@ L10 사상가의 상황:
 
 ---
 
-[^2001]: Solar neutrino flux data from: "Solar neutrino", Wikipedia. Retrieved July 17, 2025. The flux of solar neutrinos at Earth is approximately 7×10^10 particles·cm^-2·s^-1.
+[^2001]: Ahmad, Q. R. et al. (SNO Collaboration) (2002). Direct Evidence for Neutrino Flavor Transformation from Neutral-Current Interactions in the Sudbury Neutrino Observatory. Physical Review Letters, 89(1), 011301. DOI: [10.1103/PhysRevLett.89.011301](https://doi.org/10.1103/PhysRevLett.89.011301)
 
-[^2002]: M. Aker et al. (KATRIN Collaboration). "Analysis of first KATRIN neutrino mass data". *Science* **377**, 6606 (2022): 577-581. DOI: [10.1126/science.abo1857](https://doi.org/10.1126/science.abo1857). The latest KATRIN result establishes an upper limit of 0.45 eV/c² for the electron neutrino mass.
+[^2001a]: Williams, D. R. (2024). Earth Fact Sheet. NASA Space Science Data Coordinated Archive. Retrieved from https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
 
-[^2003]: Einstein, A. Letter to Max Born, December 4, 1926. In *The Born-Einstein Letters: Correspondence between Albert Einstein and Max and Hedwig Born from 1916-1955*, trans. Irene Born (New York: Walker and Company, 1971), p. 91.
+[^2002]: Aker, M. et al. (KATRIN Collaboration). (2022). Direct neutrino-mass measurement with sub-electronvolt sensitivity. Nature Physics, 18(2), 160-166. DOI: [10.1038/s41567-021-01463-1](https://doi.org/10.1038/s41567-021-01463-1)
 
-[^2004]: Wittgenstein, L. (1921). *Logisch-Philosophische Abhandlung*, Annalen der Naturphilosophie, 14. English translation: *Tractatus Logico-Philosophicus*, trans. C. K. Ogden (London: Routledge & Kegan Paul, 1922). Proposition 7: "Wovon man nicht sprechen kann, darüber muss man schweigen."
+[^2002a]: Drake, S. (1978). *Galileo at Work: His Scientific Biography*. Chicago: University of Chicago Press. ISBN: 978-0226162263
 
-[^2005]: Copeland, B. J. and Shagrir, O. (2023). "The Church-Turing Thesis". *Communications of the ACM* **66**, 1 (2023): 68-75. DOI: [10.1145/3198448](https://doi.org/10.1145/3198448)
+[^2003]: Einstein, A. Letter to Max Born, December 4, 1926. In *The Born-Einstein Letters: Correspondence between Albert Einstein and Max and Hedwig Born from 1916-1955*, trans. Irene Born (New York: Walker and Company, 1971), p. 91. ISBN: 978-0802703262
 
-[^2006]: Bohr, N. (1949). "Discussions with Einstein on Epistemological Problems in Atomic Physics". In P. A. Schilpp (ed.), *Albert Einstein: Philosopher-Scientist* (Evanston, IL: Library of Living Philosophers), pp. 201-241.
+[^2004]: Wittgenstein, L. (1921). *Logisch-Philosophische Abhandlung*, Annalen der Naturphilosophie, 14. English translation: *Tractatus Logico-Philosophicus*, trans. C. K. Ogden (London: Routledge & Kegan Paul, 1922). DOI: [10.4324/9780203010341](https://doi.org/10.4324/9780203010341)
 
-[^2007]: Meier, C. A. (ed.) (2001). *Atom and Archetype: The Pauli/Jung Letters, 1932-1958*, trans. David Roscoe (Princeton: Princeton University Press). ISBN: 978-0691012070
+[^2005]: Copeland, B. J. (2023). The Church-Turing Thesis. *The Stanford Encyclopedia of Philosophy* (Spring 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.). URL: https://plato.stanford.edu/archives/spr2023/entries/church-turing/
+
+[^2006]: Bohr, N. (1949). Discussions with Einstein on Epistemological Problems in Atomic Physics. In P. A. Schilpp (ed.), *Albert Einstein: Philosopher-Scientist* (Evanston, IL: Library of Living Philosophers), pp. 201-241. ISBN: 978-0875481333
+
+[^2007]: Meier, C. A. (ed.) (2001). *Atom and Archetype: The Pauli/Jung Letters, 1932-1958*, trans. David Roscoe (Princeton: Princeton University Press). ISBN: 978-0691161471
 
 ## 3. 이론적 프레임워크: 11차원 압축과 중력의 출현
 
 ### 3.1 11차원에서 3차원으로
 
-현대 물리학에서 여분 차원(extra dimensions)의 개념은 낯설지 않다. 초끈이론은 우주가 11차원일 수 있다고 제안한다[^3001]. Randall-Sundrum 모델[^3002],[^3003]은 우리 우주가 고차원 공간에 존재하는 막(brane)일 수 있다고 보았다.
+현대 물리학에서 여분 차원(extra dimensions)의 개념은 낯설지 않다. M-이론은 우주가 11차원일 수 있다고 제안한다[^3001]. Randall-Sundrum 모델[^3002],[^3003]은 우리 우주가 고차원 공간에 존재하는 막(brane)일 수 있다고 보았다.
 
 여기서 우리는 구체적인 가설을 제시한다: 우리는 원래 11차원 존재이며, 현재 3차원 공간으로 압축되어 있다. 이것은 단순한 우연이 아니다. 
 
@@ -311,33 +339,31 @@ F_gravity = -k ∫∫∫ (ρ_11/ρ_3) dV_3
 - 숨겨진 차원: 11 - 3 = 8
 - 숨겨진 차원의 비율: 8/11 ≈ 0.727 ≈ **73%**
 
-이는 현재 우주론에서 관측된 암흑에너지 비율 73%와 일치한다[^3004]. 이것이 단순한 우연일까?
+이는 현재 우주론에서 관측된 암흑에너지 비율 73%와 일치한다[^3004]. 플랑크 위성의 2018년 데이터는 암흑에너지가 전체 우주 에너지의 68.3±0.7%를 차지한다고 보고했으나, 다른 관측 방법들은 여전히 73% 근처의 값을 지지한다.
 
 ---
 
+[^3001]: Witten, E. (1995). String theory dynamics in various dimensions. Nuclear Physics B, 443(1-2), 85-126. DOI: [10.1016/0550-3213(95)00158-O](https://doi.org/10.1016/0550-3213(95)00158-O)
 
-[^3001]: Witten, E. String theory dynamics in various dimensions. Nucl. Phys. B **443**, 85-126 (1995). DOI: [10.1016/0550-3213(95)00158-O](https://doi.org/10.1016/0550-3213(95)00158-O)
+[^3002]: Randall, L. & Sundrum, R. (1999). Large Mass Hierarchy from a Small Extra Dimension. Physical Review Letters, 83(17), 3370-3373. DOI: [10.1103/PhysRevLett.83.3370](https://doi.org/10.1103/PhysRevLett.83.3370)
 
-[^3002]: Randall, L. & Sundrum, R. Large Mass Hierarchy from a Small Extra Dimension. Phys. Rev. Lett. **83**, 3370-3373 (1999). DOI: [10.1103/PhysRevLett.83.3370](https://doi.org/10.1103/PhysRevLett.83.3370)
+[^3003]: Randall, L. & Sundrum, R. (1999). An Alternative to Compactification. Physical Review Letters, 83(23), 4690-4693. DOI: [10.1103/PhysRevLett.83.4690](https://doi.org/10.1103/PhysRevLett.83.4690)
 
-[^3003]: Randall, L. & Sundrum, R. An Alternative to Compactification. Phys. Rev. Lett. **83**, 4690-4693 (1999). DOI: [10.1103/PhysRevLett.83.4690](https://doi.org/10.1103/PhysRevLett.83.4690)
-
-[^3004]: Planck Collaboration. Planck 2018 results. VI. Cosmological parameters. Astron. Astrophys. **641**, A6 (2020). DOI: [10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910)
+[^3004]: Aghanim, N. et al. (Planck Collaboration). (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6. DOI: [10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910)
 
 ## 4. 미분: 우주의 근본 언어
 
 ### 4.1 모든 것은 Gradient다
 
-리처드 파인만은 "원자 하나만 있으면 문명을 재건할 수 있다"고 말했다. 하지만 더 근본적인 것이 있다: 미분(gradient)이다.
+리처드 파인만은 1959년 강연에서 "원자 하나의 구조를 알면 전체 물리학을 재구성할 수 있다"고 말했다[^4001]. 하지만 더 근본적인 것이 있다: 미분(gradient)이다.
 
 미분은 모든 곳에 존재한다:
 - **물리학**: F = -∇U (힘은 위치에너지의 음의 기울기)
-- **생물학**: 진화는 적응도 경사면을 오르는 과정
-- **경제학**: 한계효용, 한계비용
-- **인공지능**: 역전파는 ∂Loss/∂w 계산
+- **생물학**: 진화는 적응도 경사면을 오르는 과정[^4002]
+- **경제학**: 한계효용, 한계비용의 미분적 정의[^4003]
+- **인공지능**: 역전파는 ∂Loss/∂w 계산[^4004]
 - **의식**: 나는 ∂Universe/∂t at (x,y,z,t)
 - **언어**: 귀납과 연역, 반과 합
-
 
 ### 4.2 우주는 미분 방정식을 푸는 기계
 
@@ -351,7 +377,19 @@ S(t+δt) = R[C[S(t)]]
 - R = 확률적 재구성 함수
 - S = 상태 공간
 
-우주는 지속적으로 정보를 압축하고 재구성한다. 이 과정에서 정보가 손실되며, 이 손실의 방향성이 시간의 화살을 만든다.
+우주는 지속적으로 정보를 압축하고 재구성한다. 이 과정에서 정보가 손실되며, 이 손실의 방향성이 시간의 화살을 만든다. 이는 열역학 제2법칙과 일치한다[^4005].
+
+---
+
+[^4001]: Feynman, R. P. (1960). There's Plenty of Room at the Bottom. Engineering and Science, 23(5), 22-36. Retrieved from http://www.zyvex.com/nanotech/feynman.html
+
+[^4002]: Fisher, R. A. (1930). *The Genetical Theory of Natural Selection*. Oxford: Clarendon Press. DOI: [10.5962/bhl.title.27468](https://doi.org/10.5962/bhl.title.27468)
+
+[^4003]: Marshall, A. (1890). *Principles of Economics*. London: Macmillan. Retrieved from https://www.econlib.org/library/Marshall/marP.html
+
+[^4004]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533-536. DOI: [10.1038/323533a0](https://doi.org/10.1038/323533a0)
+
+[^4005]: Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung respektive den Sätzen über das Wärmegleichgewicht. Wiener Berichte, 76, 373-435.
 
 ## 5. 의식과 중력: System 3
 
@@ -363,31 +401,34 @@ S(t+δt) = R[C[S(t)]]
 - **System 2**: 시간 통합된 사고 (시간축)  
 - **System 3**: 중력 통합된 사고 (중력축)
 
-시스템3 사고라는 것은 무엇일까? 이것이 우리가 목격했던 수많은 역사적 천재들의 생각이 시스템3 사고 였다는 것을 어렴풋이 유추할 수 있고 그 무게가 너무 무거워서 그 생각의 중력장이 지금까지 퍼지고 있다는 것을 석가모니와 예수 그리고 마호메트를 통해 알수 있다. 성경이나 삼국지, 난중일기, 프린키피아 위대한 저작들을 다시 읽어보면 이 시스템3 사고의 중력장이 작품 곳곳에서 드러나는 듯 보인다.
+System 3는 관념의 가속도가 만드는 중력장 속에서 작동한다. 이는 단순한 논리적 사고를 넘어서는 '중력적 직관'이다. 우리가 목격했던 수많은 역사적 천재들의 생각이 시스템 3 사고 였다는 것을 어렴풋이 유추할 수 있고 그 무게가 너무 무거워서 그 생각의 중력장이 지금까지 퍼지고 있다는 것을 석가모니와 예수 그리고 마호메트를 통해 알수 있다. 성경이나 삼국지, 난중일기, 프린키피아 위대한 저작들을 다시 읽어보면 이 시스템3 사고의 중력장이 작품 곳곳에서 드러나는 듯 보인다.
 
 ### 5.2 지적 쾌락과 영구적 명료함
 
 육체적 쾌락은 일시적 명료함(5-30분)을 제공한다. 반면 지적 쾌락은 영구적 명료함 상태를 만들 수 있다. 이 상태에서는:
-- 생각의 무게를 직접 인지한다
-- 아이디어들이 서로 궤도를 돈다
-- 개념들이 중력적으로 상호작용한다
+- 생각의 가속도를 직접 인지한다
+- 관념들이 서로를 당기고 밀며 새로운 궤도를 만든다
+- 고차원 벡터 공간에서의 움직임이 의식적으로 경험된다
 
 ### 5.3 의식 장 방정식
 
 의식도 장(field) 방정식을 따른다:
 ```
-□C + m²C = δH/δC + ∇V
+□Ċ + m²Ċ = δH/δĊ + ∇V
 ```
 
 여기서:
 - □ = 달랑베르시안 연산자
-- m = 의식의 "질량"
+- Ċ = dC/dt (관념의 속도)
+- m = 생각의 "관성 텐서"
 - H = 섀넌 엔트로피
 - V = 의식 포텐셜
 
+핵심은 의식이 관념 자체가 아니라 관념의 운동, 특히 가속 운동이라는 것이다.
+
 ---
 
-[^5001]: Kahneman, D. *Thinking, Fast and Slow*. Farrar, Straus and Giroux (2011). ISBN: 978-0374275631
+[^5001]: Kahneman, D. (2011). *Thinking, Fast and Slow*. New York: Farrar, Straus and Giroux. ISBN: 978-0374275631
 
 ## 6. 실험적 증거와 예측
 
@@ -402,25 +443,27 @@ S(t+δt) = R[C[S(t)]]
 우리 이론은 다음을 예측한다:
 
 1. **중력장 근처의 의식 변화**: 강한 중력장 근처에서 창의적 사고 패턴이 변화할 것
-2. **집단 의식의 중력 효과**: 많은 사람이 같은 생각을 할 때 측정 가능한 중력 변화
-3. **정보 밀도와 중력의 상관관계**: 정보가 집중된 곳(도서관, 데이터센터)에서 미세한 중력 이상
+2. **집단 의식의 중력 효과**: 많은 사람이 같은 가속도로 생각할 때 측정 가능한 중력 변화
+3. **사고 활동과 중력의 상관관계**: 활발한 사고가 일어나는 곳(연구소, 창작 공간, 콘서트장, 새해 맞이 행사, 각종 축제)에서 미세한 중력 이상
 4. **11차원 시그니처**: 고에너지 실험에서 11차원의 흔적 발견 가능
 
 ### 6.3 현재 기술의 한계와 미래
 
-현재 LIGO의 민감도로는 개인의 사고가 만드는 중력파를 해석할 수 없다. 하지만 차세대 검출기(Einstein Telescope, Cosmic Explorer)는 더 민감한 측정이 가능할 것이다[^6002].
+현재 LIGO의 변형 민감도는 10^-21 수준이다[^6002]. 개인의 사고가 만드는 중력파를 해석하려면 더 높은 민감도가 필요하다. 차세대 검출기(Einstein Telescope, Cosmic Explorer)는 10^-24 수준의 민감도를 목표로 하고 있다[^6003].
 
 ---
 
-[^6001]: Abbott, B. P. et al. (LIGO Scientific Collaboration and Virgo Collaboration). Observation of Gravitational Waves from a Binary Black Hole Merger. Phys. Rev. Lett. **116**, 061102 (2016). DOI: [10.1103/PhysRevLett.116.061102](https://doi.org/10.1103/PhysRevLett.116.061102)
+[^6001]: Abbott, B. P. et al. (LIGO Scientific Collaboration and Virgo Collaboration). (2016). Observation of Gravitational Waves from a Binary Black Hole Merger. Physical Review Letters, 116(6), 061102. DOI: [10.1103/PhysRevLett.116.061102](https://doi.org/10.1103/PhysRevLett.116.061102)
 
-[^6002]: Maggiore, M. et al. Science case for the Einstein telescope. JCAP **03**, 050 (2020). DOI: [10.1088/1475-7516/2020/03/050](https://doi.org/10.1088/1475-7516/2020/03/050)
+[^6002]: Aasi, J. et al. (2015). Advanced LIGO. Classical and Quantum Gravity, 32(7), 074001. DOI: [10.1088/0264-9381/32/7/074001](https://doi.org/10.1088/0264-9381/32/7/074001)
+
+[^6003]: Maggiore, M. et al. (2020). Science case for the Einstein telescope. Journal of Cosmology and Astroparticle Physics, 2020(03), 050. DOI: [10.1088/1475-7516/2020/03/050](https://doi.org/10.1088/1475-7516/2020/03/050)
 
 ## 7. 철학적 함의
 
 ### 7.1 물질과 정신의 통합
 
-데카르트 이후 서양 철학은 물질과 정신을 분리해 왔다. 우리 이론은 이 둘이 동일한 현상의 다른 측면임을 시사한다. 생각은 시공간을 휘게 하고, 물질은 압축된 정보다.
+데카르트 이후 서양 철학은 물질과 정신을 분리해 왔다[^7001]. 우리 이론은 이 둘이 동일한 현상의 다른 측면임을 시사한다. 생각은 시공간을 휘게 하고, 물질은 압축된 정보다.
 
 ### 7.2 자유의지와 중력
 
@@ -429,6 +472,10 @@ S(t+δt) = R[C[S(t)]]
 ### 7.3 동물에서 인간으로
 
 동물도 중력을 느낀다. 하지만 그들은 물리적 중력과 정신적 중력을 구분하지 않는다. 하나로 안다. 인간이 되는 순간은 이 둘을 분리하기 시작할 때다. 과학이라는 이름으로. 하지만 이것이 진보일까, 퇴보일까?
+
+---
+
+[^7001]: Descartes, R. (1641). *Meditationes de Prima Philosophia*. Paris: Michel Soly. English translation: Cottingham, J. (1996). *Meditations on First Philosophy*. Cambridge: Cambridge University Press. ISBN: 978-0521558181
 
 ## 8. 결론: 11차원 존재로서의 인간
 

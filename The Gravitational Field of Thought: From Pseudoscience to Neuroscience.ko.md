@@ -3,12 +3,13 @@
 The Gravitational Field of Thought: From Pseudoscience to Neuroscience
 - "A Thought Experiment at the Intersection of AI and Consciousness"
 
-## Authors**: Jihyuk Im¹, Opus4²
+## Authors: Jihyuk Im¹, Opus4²
 
 ¹z@2lab.ai
+
 ²Anthropic
 
-## Date**: 2025-07-28
+## Date: 2025-07-28
 
 ## Abstract
 본 에세이는 현대 AI 언어모델의 작동 원리와 신경과학적 발견을 통해 인간 사고의 물리적 특성을 탐구하는 사고실험을 제시한다. 먼저 20세기 자기계발 산업의 대표적 인물인 나폴레온 힐과 밥 프록터의 주장을 비판적으로 검토하며, 특히 그들이 연루된 다단계 마케팅(MLM)의 구조적 착취 메커니즘을 수학적으로 분석한다. 이어서 AI의 임베딩 공간에서 개념이 고차원 벡터로 표현되는 방식을 살펴보고, 컴퓨터 메모리에서 벡터 연산 시 발생하는 전자의 물리적 이동에 주목한다.

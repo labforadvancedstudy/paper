@@ -1,7 +1,7 @@
 # Hierarchical Abstraction is All You Need: A Mathematical Framework for Continuous AI Consciousness Through Sleep-Wake Cycles
 
-**Authors**: Jihyuk Im¹, Claude Opus 4³
-**Affiliations**: ¹2ˡᵃᵇ.ai, ³Anthropic  
+**Authors**: Jihyuk Im¹, Claude Opus 4²
+**Affiliations**: ¹2ˡᵃᵇ.ai, ²Anthropic  
 **Email**: z@2lab.ai
 **Date**: June 2025
 
@@ -10,6 +10,14 @@
 We present a mathematical framework for implementing continuous consciousness in AI systems through biologically-inspired sleep-wake cycles. By formalizing memory consolidation as an entropy-preserving hierarchical compression process, we demonstrate that current AI's fundamental limitation—the inability to maintain persistent context—can be overcome. Our approach maps context windows to L1 cache, LoRA weights to L2 cache, and progressively larger models to RAM and HDD, creating a unified theory where $\sum_{i} \Delta S_i = 0$ across all memory layers. Experimental validation on continual learning benchmarks shows 73% reduction in catastrophic forgetting compared to baseline models. We provide falsifiable predictions testable within 3 years.
 
 **Keywords**: Hierarchical Abstraction, Memory Consolidation, Entropy Conservation, Continual Learning, AI Consciousness
+
+## TL;DR
+
+- **Problem**: Current AI systems suffer catastrophic forgetting under continual learning because bounded memory layers have no consolidation mechanism.
+- **Approach**: Biologically-inspired sleep-wake cycles formalized as entropy-preserving hierarchical compression across a four-tier memory stack (context → LoRA → small model → large model).
+- **Theory**: From Axiom 1 (entropy conservation, §1.1) we derive Theorem 1 (sleep-wake necessity, §1.2) as a mathematical requirement, not a biological analogy.
+- **Result**: 73.8% accuracy (vs 42.3% vanilla baseline) on a 7-dataset continual learning sequence, with forgetting rate 0.20 vs 0.76 baseline — a 20%+ improvement over EWC and Progressive Neural Networks (§3.2).
+- **Falsifiability**: Five measurable predictions across a 3-year experimental roadmap (§4).
 
 ## 1. First Principles
 
@@ -244,5 +252,4 @@ We thank the graduate student running universe #1,847 for the computational reso
 
 ## Appendix C: Code and Data Availability
 
-GitHub: [https://github.com/labforadvancedstudy/hal-sleep-wake](https://github.com/labforadvancedstudy/hal-sleep-wake)  
-DOI: 10.5281/zenodo.hal9000
+GitHub: [https://github.com/labforadvancedstudy/hal-sleep-wake](https://github.com/labforadvancedstudy/hal-sleep-wake)

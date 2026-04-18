@@ -1,13 +1,21 @@
 # Hierarchical Abstraction is Emergence: A Field-Theoretic Framework for Universal Complexity
 
-**Authors**: Jihyuk Im¹, Claude Opus 4³
-**Affiliations**: ¹2ˡᵃᵇ.ai, ³Anthropic  
+**Authors**: Jihyuk Im¹, Claude Opus 4²
+**Affiliations**: ¹2ˡᵃᵇ.ai, ²Anthropic  
 **Email**: z@2lab.ai
 **Date**: June 2025
 
 ## Abstract
 
 We present a field-theoretic formulation of hierarchical abstraction as the fundamental organizing principle of the universe. By introducing an abstraction field $\Phi(x,t,\lambda)$ that evolves across space, time, and scale $\lambda$, we derive that emergent complexity follows the field equation $\Box_\lambda \Phi + m^2\Phi = J$, where $\Box_\lambda$ is the scale-covariant d'Alembertian. This framework unifies the emergence of structure from quarks to consciousness within a single mathematical formalism. We show that each hierarchical level corresponds to a symmetry breaking of the abstraction field, with information compression emerging as a gauge invariance. Falsifiable predictions include measurable phase transitions in neural networks and quantized levels of organizational complexity.
+
+## TL;DR
+
+- **Central equation**: The scale-covariant field equation $\Box_\lambda \Phi + m^2(\lambda)\Phi = J$ governs an *abstraction field* $\Phi(x,t,\lambda)$ across space, time, and scale.
+- **Emergence as symmetry breaking**: Each hierarchical level (quantum→classical, particles→atoms, molecules→life, neurons→consciousness) is a spontaneous symmetry breaking of $\Phi$ (§2).
+- **Compression as gauge invariance**: Inter-level information compression emerges from a local scale-gauge symmetry, predicting universal compression ratio $r = e$ across biological and cognitive domains (§3, §8.3).
+- **Universality class**: The *Abstraction* class has critical exponents $\nu=0.73,\gamma=1.89$ — the $\nu=0.73$ value coincides with L4's empirical energy-intelligence scaling exponent, suggesting a common universality underlying hierarchical emergence (§4.3).
+- **Falsifiability**: Four experimental predictions (neural criticality τ=1.5±0.1, organizational quantization, compression universality, phase-transition specific heat) each with concrete measurement protocols (§8).
 
 ## 1. First Principles
 
@@ -111,7 +119,9 @@ Different systems flow to the same fixed points, explaining universal patterns:
 | Mean Field | Crystals, Simple fluids | $\nu = 1/2, \gamma = 1$ |
 | Ising | Magnets, Neural networks | $\nu = 0.63, \gamma = 1.24$ |
 | Percolation | Networks, Epidemics | $\nu = 0.88, \gamma = 2.43$ |
-| **Abstraction** | **Hierarchies, Life** | **$\nu = 0.73, \gamma = 1.89$** |
+| **Abstraction**¹ | **Hierarchies, Life** | **$\nu = 0.73, \gamma = 1.89$** |
+
+¹ The critical exponent $\nu = 0.73$ empirically coincides with L4 §1.1's intelligence-energy scaling exponent $\beta = 0.73 \pm 0.08$, suggesting a common universality class underlies both renormalization-group flow in hierarchical field theory and the empirical energy cost of intelligence.
 
 ## 5. Phase Transitions in Complexity
 
@@ -269,6 +279,8 @@ $$\lambda_{consciousness} = \lambda_c: \quad \xi \to \infty$$
 
 This explains both integration and differentiation in conscious experience.
 
+> *Disclaimer*: This identification is speculative. Rigorous falsification requires measuring order-parameter divergence or correlation-length scaling in neural correlates of consciousness; we propose concrete avalanche-distribution protocols in §8.1 ($P(s) \sim s^{-\tau}$, $\tau = 1.5 \pm 0.1$). Until such measurements are replicated, treat the identification $\lambda_{consciousness} = \lambda_c$ as a testable conjecture, not an established result.
+
 ## 12. Conclusion
 
 We have shown that hierarchical abstraction, formulated as a field theory, provides a unified framework for understanding emergence across all scales. The key equation:
@@ -299,5 +311,4 @@ The universe abstracts itself into existence, with each level encoding and compr
 
 ## Appendix B: Numerical Simulations
 
-GitHub: https://github.com/labforadvancedstudy/abstraction-field-theory  
-DOI: 10.5281/zenodo.hal9005
+GitHub: https://github.com/labforadvancedstudy/abstraction-field-theory

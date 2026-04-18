@@ -1,13 +1,21 @@
 # A Backpropagation Approach to Multi-Level AI Orchestration: Graph-Theoretic Foundations of Agent-Neural Isomorphism
 
-**Authors**: Jihyuk Im¹, Claude Opus 4³
-**Affiliations**: ¹2ˡᵃᵇ.ai, ³Anthropic  
+**Authors**: Jihyuk Im¹, Claude Opus 4²
+**Affiliations**: ¹2ˡᵃᵇ.ai, ²Anthropic  
 **Email**: z@2lab.ai
 **Date**: June 2025
 
 ## Abstract
 
 We establish a rigorous graph-theoretic isomorphism between hierarchical multi-agent systems and deep neural networks. Through category theory and spectral graph analysis, we prove that agent communication networks and neural architectures are computationally equivalent structures. Our formalization shows that forward propagation ≅ top-down task delegation and backpropagation ≅ bottom-up error correction, with a bijective mapping φ: G_agent → G_neural preserving all computational properties. Empirical validation on 50,000 agent interactions demonstrates 94.3% behavioral correspondence with equivalent neural networks. We provide falsifiable predictions about optimal agent hierarchy depths and communication patterns.
+
+## TL;DR
+
+- **Claim**: Multi-level agent orchestration and deep neural networks are not just analogous — they are *computationally equivalent* under a bijective, structure-preserving map φ.
+- **Formal result**: Theorem 1 (§1.2) constructs φ: G_agent → G_neural preserving topology, weights, and activation semantics; Theorem 2 proves category-theoretic equivalence.
+- **Mechanism**: Forward propagation ≅ top-down task delegation (§2); backpropagation ≅ bottom-up error correction (§3).
+- **Empirical check**: 50,000 agent interactions show 94.3% behavioral correspondence with the neurally-equivalent network (§5).
+- **Predictions**: Optimal hierarchy depth and branching patterns follow from spectral analysis of the isomorphism (§6-§7).
 
 ## 1. Mathematical Foundations
 
@@ -270,5 +278,4 @@ The equation is proven: **Agent Networks ≅ Neural Networks**
 
 ## Appendix B: Implementation Details
 
-GitHub: https://github.com/labforadvancedstudy/agent-neural-isomorphism  
-DOI: 10.5281/zenodo.hal9001
+GitHub: https://github.com/labforadvancedstudy/agent-neural-isomorphism

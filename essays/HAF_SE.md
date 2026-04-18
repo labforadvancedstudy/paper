@@ -1,5 +1,7 @@
   The Hierarchy That Builds Itself: A New Way to Think About Software
 
+  > **Document type & namespace note.** This is a short-form **essay** (informal narrative), not a peer-style paper — which is why it now lives under `paper/essays/`. Its "L1–L9 (+L10)" naming refers to the **HAL9 software-architecture layer stack** (reflex → execution → function → architecture → enterprise → philosophy → formal patterns → meta-hierarchy → consciousness → unity). Do **not** confuse these with the HAL paper series' L1–L5 (sleep-wake, agent-neural isomorphism, 7±2 branching, energy scaling, field theory — under `paper/HAL/`). Same letter prefix, entirely separate numbering space.
+
   Starting Small: Why Your Computer Never Forgets Where It Put Things
 
   You know what's funny? Your computer has this beautiful way of organizing its memory. It keeps the stuff it needs RIGHT NOW in these tiny, expensive

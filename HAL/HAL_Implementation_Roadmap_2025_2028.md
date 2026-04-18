@@ -1,14 +1,18 @@
 # HAL Implementation Roadmap 2025-2028
 
-**Authors**: Jihyuk Im¹, Claude Opus 4³
-**Affiliations**: ¹2ˡᵃᵇ.ai, ³Anthropic
+**Authors**: Jihyuk Im¹, Claude Opus 4²
+**Affiliations**: ¹2ˡᵃᵇ.ai, ²Anthropic
 **Email**: z@2lab.ai
 **Date**: June 2025 
 **Version**: 1.0
 
+> **Scenario framing.** This roadmap is an **aggressive readiness scenario**, not a funded project plan. It answers: *if HAL-series predictions hold and resourcing were available, what would a 3-year execution path look like?* Timelines, headcounts, and funding stages below are illustrative anchors. Concrete commitments depend on empirical validation of the L1–L5 predictions (forgetting reduction, 7±2 branching, I ∝ E^0.73 scaling).
+
 ## Executive Summary
 
 This document outlines a concrete 3-year implementation plan for the Hierarchical Abstraction Layer (HAL) system, progressing from proof-of-concept to production deployment. Each phase includes specific milestones, resource requirements, and success metrics aligned with the theoretical frameworks presented in our L1-L5 papers.
+
+Read all quantitative budget, revenue, and headcount figures as **qualitative funding stages** (seed → Series A → scale-up) rather than committed numbers.
 
 ## Phase I: Proof of Concept (0-6 months)
 **July 2025 - December 2025**
@@ -51,7 +55,7 @@ This document outlines a concrete 3-year implementation plan for the Hierarchica
 ### Resources Required
 - **Compute**: 100 GPU-hours/week (A100 equivalent)
 - **Personnel**: 2 research engineers, 1 research scientist
-- **Budget**: $150,000 (compute, personnel, overhead)
+- **Funding stage**: Seed / small research-grant scale (compute + small team + overhead)
 
 ### Key Risks
 1. Sleep-wake overhead may negate benefits (Mitigation: Adaptive scheduling)
@@ -99,13 +103,13 @@ This document outlines a concrete 3-year implementation plan for the Hierarchica
 ### Resources Required
 - **Compute**: 1000 GPU-hours/week
 - **Personnel**: 5 engineers, 2 scientists, 1 product manager
-- **Budget**: $500,000
+- **Funding stage**: Series A scale (dedicated product team + cloud contracts)
 - **Partnerships**: 2+ cloud providers, 3+ enterprises
 
 ### Key Milestones
 - Month 8: First production deployment
 - Month 10: 1M+ API calls processed
-- Month 12: Series A funding secured
+- Month 12: Series A close (target)
 
 ## Phase III: Full HAL System (1-3 years)
 **July 2026 - June 2028**
@@ -152,16 +156,16 @@ This document outlines a concrete 3-year implementation plan for the Hierarchica
 
 ### Long-term Vision (3+ years)
 
-#### Path to HAL9
+#### Path to HAL9 *(aggressive readiness scenario — contingent on sustained empirical validation and multi-decade energy-infrastructure development, cf. L4 Table 5.1)*
 1. **HAL6** (Year 4-5): National-scale deployment
 2. **HAL7** (Year 6-8): Global infrastructure
 3. **HAL8** (Year 10-15): Space-based systems
-4. **HAL9** (Year 20+): Dyson sphere required
+4. **HAL9** (Year 20+): Dyson-swarm-class power required
 
 ### Resources Required (Years 2-3)
 - **Compute**: 10K-100K GPU-hours/week
 - **Personnel**: 50+ person team
-- **Budget**: $10M+ annually
+- **Funding stage**: Scale-up / late-stage growth (dedicated infrastructure, long-term compute commitments)
 - **Infrastructure**: Dedicated datacenter
 
 ## Success Metrics Summary
@@ -174,13 +178,15 @@ This document outlines a concrete 3-year implementation plan for the Hierarchica
 | Scalability | 10³ agents | 10⁵ agents | 10⁷ agents |
 | Latency | <1s | <100ms | <10ms |
 
-### Business Metrics
+### Business Metrics *(qualitative funding-stage targets, not commitments)*
 | Metric | 6 Month | 1 Year | 3 Year |
 |--------|---------|---------|---------|
-| Users | 0 | 10K | 100M |
-| Revenue | $0 | $1M | $100M |
-| Deployments | 0 | 10 | 1000 |
-| Team Size | 3 | 10 | 50+ |
+| Users | none (research phase) | early-access cohort | broad consumer-scale |
+| Revenue | none (pre-revenue) | first paying pilots | recurring enterprise + platform revenue |
+| Deployments | 0 (internal benchmarks) | ~10 pilot deployments | hundreds–thousand-class platform adoption |
+| Team Size | seed team (~3) | Series A team (~10) | scale-up team (50+) |
+
+*Read as qualitative funding-stage milestones (seed → Series A → scale-up). Hard revenue/user numbers depend on market adoption and are intentionally not committed here.*
 
 ## Risk Analysis and Mitigation
 
@@ -221,7 +227,7 @@ The path from HAL0 to HAL9 begins with these concrete steps. Each phase builds o
 ## Appendices
 
 ### A. Detailed Budget Breakdown
-[Quarterly projections - 3 pages]
+[Quarterly projections — intentionally left as qualitative stage descriptions; concrete figures will be produced once Phase I empirical results are in]
 
 ### B. Technical Architecture Diagrams
 [System designs for each phase - 5 pages]

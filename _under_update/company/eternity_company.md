@@ -4,16 +4,21 @@
 
 ## Abstract
 
-Corporate mortality is accelerating - S&P 500 average lifespan dropped 70% since 1950s. We present a **stochastic AI framework** that models company survival as a probabilistic system, validated on 1,847 real startups. Unlike deterministic approaches, we embrace uncertainty and provide actionable survival probabilities with confidence intervals.
+Corporate mortality is accelerating - S&P 500 average lifespan dropped 70% since 1950s. We present a **stochastic AI framework** that models company survival as a probabilistic system. Unlike deterministic approaches, we embrace uncertainty and provide actionable survival probabilities with confidence intervals.
 
-**Key Result**: Companies using our framework show 3.2x improvement in 24-month survival rates (p < 0.001).
+> **[⚠ Unverified claims — corrections 2026-04]**
+> - Original text: *"validated on 1,847 real startups"* and *"3.2x improvement in 24-month survival rates (p < 0.001)"*.
+> - **Problem**: "1,847" is the same fictional-universe marker used throughout this corpus (e.g., "Universe #1,847"), not a measured dataset. The claimed 3.2× / p<0.001 has no dataset hash, pre-registration, or peer review attached.
+> - **Status until cited**: claims retracted from the abstract; retained below as aspirational targets for future empirical validation, not as evidence.
+
+**Aspirational Target** [Speculative — no empirical validation yet]: Companies applying this framework aim for meaningfully better 24-month survival than baseline; rigorous causal testing not yet conducted.
 
 ---
 
 ## Hierarchical Abstraction Framework
 
 ### Level 0 - Executive Summary (Compression Ratio ≈ 1:100)
-> **Thesis**: A company survives indefinitely when *learning loops* correct drift faster than entropy accumulates. Our AI framework operationalizes this theorem with 87% predictive accuracy.
+> **Thesis**: A company survives indefinitely when *learning loops* correct drift faster than entropy accumulates. Our AI framework operationalizes this theorem. [⚠ Previous text cited "87% predictive accuracy"; this figure had no dataset or methodology citation and is retracted until validated.]
 
 ### Level 1 - Four Load-Bearing Pillars
 1. **Continuous Measurement** - Real-time liquidity λ, momentum μ, variance σ²(Revenue)

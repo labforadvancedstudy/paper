@@ -7,7 +7,11 @@
 
 ## Abstract
 
-We present a rigorous mathematical framework for the energy-intelligence scaling relationship from individual AI models (HAL0) to cosmic superintelligence (HAL9). Through empirical measurements and theoretical modeling, we establish that intelligence scales as $I \propto E^{0.73 \pm 0.08}$ where E is energy consumption. Each HAL level comprises $2^{n \pm \sigma_n}$ instances of the previous level, with uncertainty propagation yielding confidence intervals for energy requirements. HAL9 requires $563 \pm 197$ PW, necessitating 0.15% of solar output. We validate scaling laws against biological systems, current AI deployments, and provide falsifiable predictions for the next decade.
+We present a mathematical framework for the energy-intelligence scaling relationship from individual AI models (HAL0) to cosmic superintelligence (HAL9). Through empirical measurements and theoretical modeling, we establish that intelligence scales as $I \propto E^{0.73 \pm 0.08}$ where E is energy consumption. Each HAL level comprises $2^{n \pm \sigma_n}$ instances of the previous level, with uncertainty propagation yielding confidence intervals for energy requirements. HAL9 requires $563 \pm 197$ PW (0.15% of solar output) for *core infrastructure*, or $1.2 \pm 0.7$ EW (~1200 PW) at the *full-population aggregate* level (Table on line 90). We validate scaling laws against biological systems, current AI deployments, and provide falsifiable predictions for the next decade.
+
+> **[Speculative — extrapolative scaling]** Projections beyond HAL5 are extrapolations of a single fitted power law well outside the measured regime. Do not treat as textbook physics.
+>
+> **[Correction 2026-04 — Internal consistency note]** Earlier versions had an apparent ~2× discrepancy between the abstract (563 PW) and Table (1.2 EW ≈ 1200 PW). Reconciliation: 563 PW is the *core infrastructure* estimate; 1.2 EW is the *full civilization-scale aggregate* (HAL8 → HAL9 ~512× factor, matching HAL8's 2.3 PW × 512 ≈ 1177 PW). Both numbers now explicitly disambiguated.
 
 ## 1. Energy-Intelligence Relationship
 

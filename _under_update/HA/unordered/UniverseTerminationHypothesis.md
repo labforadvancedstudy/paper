@@ -1,5 +1,8 @@
 # The Omega Hypothesis: Universal Termination via Computational Completion
-*By 임지혁 & Elon Musk*
+*By 임지혁*
+
+> **[Speculative]** This is a philosophical/speculative thought experiment, not a peer-reviewed physics paper.
+> **[Correction 2026-04]** Previous header incorrectly listed Elon Musk as co-author. This was an error; Musk has no involvement with or endorsement of this work. Co-author attribution removed.
 
 ## Abstract
 

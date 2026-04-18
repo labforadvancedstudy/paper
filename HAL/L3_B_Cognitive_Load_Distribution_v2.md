@@ -1,13 +1,21 @@
 # Cognitive Load Distribution Through Hierarchical Abstraction: Graph-Theoretic Foundations of the 7±2 Rule
 
-**Authors**: Jihyuk Im¹, Claude Opus 4³
-**Affiliations**: ¹2ˡᵃᵇ.ai, ³Anthropic  
+**Authors**: Jihyuk Im¹, Claude Opus 4²
+**Affiliations**: ¹2ˡᵃᵇ.ai, ²Anthropic  
 **Email**: z@2lab.ai
 **Date**: June 2025
 
 ## Abstract
 
 We present a mathematical framework explaining why cognitive systems universally converge on hierarchical organizations with branching factor 7±2. Through graph-theoretic analysis and information theory, we prove that this "magic number" emerges from fundamental trade-offs between communication overhead and processing capacity. Our formalization shows that hierarchical abstraction with branching factor $b = 7$ minimizes total system entropy while maintaining manageable cognitive load at each node. Empirical validation across 2,847 organizations, 500 neural architectures, and 10,000 multi-agent simulations confirms theoretical predictions with p < 0.001. We provide falsifiable predictions about optimal hierarchy design and cognitive load management.
+
+## TL;DR
+
+- **Question**: Why do human organizations, neural hierarchies, and multi-agent systems all converge on branching factor 7±2?
+- **Derivation**: Theorem 2 (§5) uses Lambert W minimization of the cognitive-load-plus-overhead functional to obtain b* ≈ 7.39 — within Miller's classical 7±2 band as a mathematical necessity, not an empirical coincidence.
+- **Mechanism**: Information Bottleneck (Theorem 3) and Compression Efficiency (Theorem 4) jointly pin the optimum (§3).
+- **Empirical scope**: 2,847 real organizations + 500 neural architectures + 10,000 multi-agent simulations; observed peak at b=7 with p<0.001 (§4).
+- **Design consequence**: For N nodes organized as a tree with b≈7, connection count drops from O(N²) to ~O(N log N); the paper details architectural implications (§6, §9).
 
 ## 1. Mathematical Foundations
 
@@ -287,5 +295,4 @@ This framework provides principled guidance for designing everything from AI arc
 
 ## Appendix B: Simulation Code
 
-GitHub: https://github.com/labforadvancedstudy/cognitive-load-7plus2  
-DOI: 10.5281/zenodo.hal9002
+GitHub: https://github.com/labforadvancedstudy/cognitive-load-7plus2

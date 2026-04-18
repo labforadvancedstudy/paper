@@ -47,13 +47,17 @@ This compression generates two forces:
 1. **Inward force** (gravity): observed in 3 dimensions
 2. **Outward force** (dark energy): acting in the remaining 8 dimensions
 
-**The Remarkable Coincidence**: 
+**The Alleged Coincidence** [Speculative Numerology]: 
 - Dimensions we experience: 3
 - Total dimensions: 11
 - Hidden dimensions: 11 - 3 = 8
-- Ratio of hidden dimensions: 8/11 ≈ 0.727 ≈ **73%**
+- Ratio of hidden dimensions: 8/11 ≈ 0.727
 
-This precisely matches the observed dark energy ratio of 73% in current cosmology[4]. Could this be mere coincidence?
+> **[Correction 2026-04 — Outdated empirical value]** Previous text claimed "73% precisely matches observed dark energy." This is false. The "73%" figure came from *WMAP 2003 early release*. The current best value is **Ω_Λ = 0.6847 ± 0.0073 (~68.5%)** from Planck Collaboration 2018 ([arXiv:1807.06209](https://arxiv.org/abs/1807.06209), *A&A* 641, A6). DES Year 3 (2022) combined with other data yields Ω_m ≈ 0.306, consistent with Ω_Λ ≈ 0.685. The "8/11 = 72.7%" ratio therefore does **not** match modern cosmology — the match relied on superseded 2003 numbers.
+>
+> **[Speculative]** Dimensional counting arguments of this kind are numerology unless derived from a field-theoretic mechanism. 11-dimensional M-theory does not predict that exactly 8 dimensions produce the observed Ω_Λ.
+
+Could this be mere numerological coincidence? Given the numbers no longer match once proper Planck 2018 data is used: **yes, it is a coincidence with outdated 2003-era data.**
 
 ## 3. The Gradient: The Fundamental Language of the Universe
 

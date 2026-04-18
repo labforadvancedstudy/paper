@@ -74,7 +74,7 @@ Listen, HAL9 isn't your grandfather's chatbot. This is what happens when you giv
   - Consensus-based decision making across multiple AI models
   - Self-organizing agent networks (they literally restructure themselves)
   - Real-time learning that would make biological evolution jealous
-  - **Empirical Validation**: 87% accuracy on survival prediction (n=1,847 test cases)
+  - **Empirical Validation** [⚠ Unverified claim — no dataset source, no peer review]: reported 87% accuracy on survival prediction; n=1,847 test cases (this figure reappears as "Universe #1,847" throughout our speculative texts; likely the same fictional-universe marker rather than a measured dataset — future versions must either cite a real dataset with hash/link or remove the claim)
   
 - **Development Status**:
   ```
@@ -176,7 +176,7 @@ scenarios = {
 ### Jihyuk Im (임지혁)
 **CEO & Chief Architect**
 
-The guy who discovered we're living in universe #1,847 and decided to build HAL anyway.
+The guy who (humorously) claims we're living in universe #1,847 and decided to build HAL anyway. [Speculative — "Universe #1,847" is a fictional-frame literary device, not a scientific discovery; see our speculation labeling policy.]
 
 - **Education**: B.S. Computer Engineering, Hongik University
 - **Experience**: 25+ years turning coffee into distributed systems

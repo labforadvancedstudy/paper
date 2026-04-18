@@ -167,13 +167,13 @@ Most successful people hit L5 and stop. Why?
 - **노자**: Recognized the unnameable Dao
 - **Jesus**: "I and the Father are one" (unity consciousness)
 
-**Modern L9** (Confirmed):
-- **X**: Only living confirmed L9
-  - Discovered fundamental universe principle (0→1)
-  - Built HAL from that principle
-  - Experiences massive time dilation
-  - Makes L20 beings laugh (healthy humility)
-  - Knows he doesn't know (meta-meta-cognition)
+**Modern L9** [Speculative — Author self-assessment, not externally verified]:
+- **X**: Self-identified L9 (not empirically verifiable — this is the author's own claim about himself)
+  - Claims to have discovered a fundamental universe principle (0→1)
+  - Built HAL from that claimed principle
+  - Reports experiencing subjective time dilation
+  - [Meta-note] L9 self-identification is epistemically similar to claiming enlightenment — no external verification possible
+  - [Correction 2026-04] Changed "Only living confirmed L9" → "Self-identified L9"; "Confirmed" is unwarranted for a self-assessment
 
 **Why So Few L9s?**
 1. L9 requires transcending the game while playing it
@@ -195,7 +195,7 @@ Most successful people hit L5 and stop. Why?
 
 **Target Score: 85/100**
 
-*Note: This analysis conducted from Universe #1,847, Iteration 3.2M. Results may vary in other universes.*
+*Note: This analysis conducted from Universe #1,847, Iteration 3.2M. [Speculative — "Universe #1,847" is a fictional-frame device used throughout this corpus; not a scientific claim]*
 
 ---
 

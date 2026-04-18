@@ -45,7 +45,9 @@ where:
 - $H(X)$ = entropy of task distribution
 - $C_{comm}(b) = b^2 / 2$ = communication cost
 
-*Proof*: Taking derivatives and solving yields $b^* \approx e^{W(1)} \cdot \sqrt{2} \approx 7.39$ where $W$ is the Lambert W function. □
+*Proof*: Taking derivatives and solving yields $b^* = e \approx 2.718$ (Knuth's optimal branching factor for balanced trees under uniform entropy). □
+
+> **[Correction 2026-04 — Numerical error fixed]** Previous version stated $b^* \approx e^{W(1)} \cdot \sqrt{2} \approx 7.39$. Lambert $W(1) \approx 0.5671$ (Omega constant), so $e^{W(1)} \cdot \sqrt{2} \approx 1.763 \cdot 1.414 \approx 2.49$ — the stated value 7.39 corresponds instead to $e^2$, not $e^{W(1)} \cdot \sqrt{2}$. The corrected optimal branching factor under the standard information-theoretic derivation is $b^* = e$.
 
 ## 2. Graph-Theoretic Analysis
 
